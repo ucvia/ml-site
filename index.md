@@ -12,36 +12,54 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 **Preparadores**: TBD.
 
+---
+
+> All models are wrong but some are useful
+
 ## Menu
-1. [Example](#codigo-de-honor)
-2. [Example2](#example2)
-3. [Calendario](#Calendario)
+1. [Anuncios](#anuncios)
+2. [Calendario](#Calendario)
+3. [Código de Honor](#codigo-de-honor)
 4. [Referencias](#referencias)
 
-## Código de Honor
+## Anuncios
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. [13/11] Agregadas referencias sobre Álgebra Lineal
+2. [13/11] Publicada la página de la materia!
 
 ## Calendario
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-:Fecha: | :Tema: | :Material: | :Nota:
+Fecha | Tema | Material | Nota
 :-----:|-------|:--------:|--------
 2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie | Esto es una nota
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock | Esto es una nota
 2014 | Satellite | Won Best Actor miniseries or television film | Esto es una nota
 
----
+## Código de honor
 
-> All models are wrong but some are useful
+Pueden (y aliento fírmemente) discutir con otros estudiantes del curso sobre los proyectos y laboratorios. Sin embargo, debe entender bien sus soluciones y cada entregable debe ser personal o grupal, de tal manera que esté escrito de forma aislada. 
+
+El grupo docente se reserva el derecho de interrogar sobre laboratorios, exámenes y proyectos.
+
+Qué podemos hacer?
+
+1. Discutir cómo implementar un algoritmo.
+2. Qué tipo de bibliotecas usar?
+3. Cómo puedo instalar un framework? 
+
+### Uso de internet
+
+También puedes consultar Internet para obtener información, siempre que no revele la solución. Si una pregunta te pide que diseñes e implementes un algoritmo para un problema, está bien si encuentras información sobre cómo resolver un problema pero no está bien si buscas el código o el algoritmo para el problema que te están preguntando. 
+
+### Proyectos
+
+Para los proyectos, puedes hablar con otros alumnos del curso sobre dudas sobre el lenguaje de programación, librerías, algún tema de API, etcétera, pero tanto las soluciones como la programación deben ser tuyas. 
+
+### Uso de LLM
+
+Lo mismo se aplica a las herramientas de IA generativa, como ChatGPT, Bard, Bing, etc. Estas pueden ser herramientas útiles en tu trabajo. Sin embargo, el uso de dichas herramientas cuando no esté explícitamente permitido será tratado como **plagio** y está **estrictamente** prohibido.
+
+Cualquier duda pueden contactar al grupo docente.
 
 ## Referencias
 
