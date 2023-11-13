@@ -2,15 +2,23 @@
 layout: default
 ---
 
-## About Me
+## Aprendizaje Automático [6561] - II 2023
+
+**Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+**Preparadores**: TBD.
 
-## Research Interest
+## Menu
+1. [Example](#codigo-de-honor)
+2. [Example2](#example2)
+3. [Calendario](#Calendario)
+4. [Referencias](#referencias)
+
+## Código de Honor
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
@@ -19,27 +27,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
+## Calendario
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+:Fecha: | :Tema: | :Material: | :Nota:
+:-----:|-------|:--------:|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie | Esto es una nota
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock | Esto es una nota
+2014 | Satellite | Won Best Actor miniseries or television film | Esto es una nota
 
 ---
 
-Here is a blockquote
+> All models are wrong but some are useful
 
-> To a great mind, nothing is little
+## Referencias
 
-## References
+### Álgebra Lineal
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* [Repaso de Álgebra Lineal](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html) de J. Zico Kolter
+
+### Aprendizaje Automático
+
+* [ISLP] En especial la versión de Python
