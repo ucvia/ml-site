@@ -29,9 +29,9 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 ## Calendario
 
-Fecha | Tema | Material | Nota
-:-----:|-------|:--------:|--------
-13/11 | Introducción a métodos de regularización: Lasso y Ridge.  | [03_Regularizacion](https://ml.ucv.ai/notebooks/03_Regularization.ipynb "download") | Versión b.1 | Tarea debe ser cambiada y enviada para el 15/11/23.
+Fecha | Tema | Material | Nota | Acuerdos
+:-----:|-------|:--------:|--------|--------
+13/11 | Introducción a métodos de regularización: Lasso y Ridge.  | [03_Regularizacion](https://ml.ucv.ai/notebooks/03_Regularizacion.ipynb "download") | Versión b.1 | Tarea debe ser cambiada y enviada para el 15/11/23.
 10/11 | Regresión Logística  | [Regresión Logística](https://ml.ucv.ai/notebooks/02_Logistic_Regression.ipynb "download") | Enviado notebook a los alumnos
 
 ## Código de honor
