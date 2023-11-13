@@ -1,25 +1,25 @@
-title: Researcher
+title: Aprendizaje automático - 6561
 url: "https://ankitsultana.com"
 baseurl: ""
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Template basado en Research de Anki Sultana"
+footer_url: "https://github.com/ucvia"
+footer_text: "UCVIA | ML | Template basado en Research de Anki Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Principal"
+   link: "/"
+ - name: "Nota informativa"
+   link: "AprendizajeAutomatico-6561.pdf"
+ - name: "Contacto"
+   link: "contacto"

@@ -9,8 +9,9 @@ is_contact: true
 
 ## Dirección 
 
-> STADIUS  Kasteelpark Arenberg 10 B-3001 
-
+> STADIUS Kasteelpark Arenberg 10 B-3001 
+>
+> Room  B01.54
 >
 > Leuven
 >
@@ -20,5 +21,5 @@ is_contact: true
 
 ## Social
 
-1. [Twitter](#fernandocrema)
+1. [Linkedin](#fernandocrema)
 1. [Twitter](#FernandoCremaG)
