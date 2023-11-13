@@ -4,7 +4,7 @@ baseurl: ""
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+# ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
