@@ -75,4 +75,4 @@ by Gilbert Strang   (gilstrang@gmail.com)     ISBN : 978-06921963-8-0
 
 ### Aprendizaje Automático
 
-* [ISLP](https://www.statlearning.com/) An Introducttion to Statistical Learning with Python. En especial la versión de Python
+* [ISLP](https://www.statlearning.com/) An Introduction to Statistical Learning with Python. En especial la versión de Python
