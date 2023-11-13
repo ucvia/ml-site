@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [fernando.cremagarcia@kuleuven.be](mailto:fernando.cremagarcia@kuleuven.be)
 
 ---
 
-## Mailing Address
+## Dirección 
 
-> 221B, Baker Street
+> STADIUS  Kasteelpark Arenberg 10 B-3001 
+
 >
-> London
+> Leuven
 >
-> United Kingdom
+> Belgium
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](#fernandocrema)
+1. [Twitter](#FernandoCremaG)
