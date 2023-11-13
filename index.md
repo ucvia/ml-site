@@ -16,7 +16,6 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 > All models are wrong but some are useful
 
-## Menu
 1. [Anuncios](#anuncios)
 2. [Calendario](#Calendario)
 3. [Código de Honor](#codigo-de-honor)
@@ -24,8 +23,8 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 ## Anuncios
 
-1. [13/11] Agregadas referencias sobre Álgebra Lineal
-2. [13/11] Publicada la página de la materia!
+1. **[13/11]** Agregadas referencias sobre Álgebra Lineal
+2. **[13/11]** Publicada la página de la materia!
 
 ## Calendario
 
@@ -36,6 +35,8 @@ Fecha | Tema | Material | Nota
 2014 | Satellite | Won Best Actor miniseries or television film | Esto es una nota
 
 ## Código de honor
+
+<img class="profile-picture" src="/static/thanos.jpeg">
 
 Pueden (y aliento fírmemente) discutir con otros estudiantes del curso sobre los proyectos y laboratorios. Sin embargo, debe entender bien sus soluciones y cada entregable debe ser personal o grupal, de tal manera que esté escrito de forma aislada. 
 
@@ -63,10 +64,12 @@ Cualquier duda pueden contactar al grupo docente.
 
 ## Referencias
 
+Cualquier elemento de las referencias usado en una clase será referenciado con [Nombre-Referencia]
+
 ### Álgebra Lineal
 
-* [Repaso de Álgebra Lineal](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html) de J. Zico Kolter
+* [Kolter](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html) Repaso de Álgebra Lineal de J. Zico Kolter
 
 ### Aprendizaje Automático
 
-* [ISLP] En especial la versión de Python
+* [ISLP](https://www.statlearning.com/) An Introducttion to Statistical Learning with Python. En especial la versión de Python
