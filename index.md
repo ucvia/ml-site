@@ -23,16 +23,16 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 ## Anuncios
 
-1. **[13/11]** Agregadas referencias sobre Álgebra Lineal
-2. **[13/11]** Publicada la página de la materia!
+1. **[13/11/2023]** Agregado notebook de clase de regularización.
+2. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+3. **[13/11/2023]** Publicada la página de la materia!
 
 ## Calendario
 
 Fecha | Tema | Material | Nota
 :-----:|-------|:--------:|--------
+13/11 | Introducción a métodos de regularización: Lasso y Ridge.  | [03_Regularizacion](https://ml.ucv.ai/notebooks/03_Regularization.ipynb "download") | Versión b.1 | Tarea debe ser cambiada y enviada para el 15/11/23.
 10/11 | Regresión Logística  | [Regresión Logística](https://ml.ucv.ai/notebooks/02_Logistic_Regression.ipynb "download") | Enviado notebook a los alumnos
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock | Esto es una nota
-2014 | Satellite | Won Best Actor miniseries or television film | Esto es una nota
 
 ## Código de honor
 
@@ -71,8 +71,12 @@ Cualquier elemento de las referencias usado en una clase será referenciado con 
 * [Kolter](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html) Repaso de Álgebra Lineal de J. Zico Kolter
 * [Strang-MOOC](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) Curso online Matrix Methods In Data Analysis, Signal Processing, And Machine Learning basado en [Strang-Data]
 * [Strang-Data](https://math.mit.edu/~gs/learningfromdata/) Linear Algebra and Learning from Data (2019)
-by Gilbert Strang   (gilstrang@gmail.com)     ISBN : 978-06921963-8-0
+by Gilbert Strang   (gilstrang@gmail.com)  ISBN 13: 978-06921963-8-0
+
+### Matemática para Aprendizaje Automático
+
+* [MML](https://mml-book.github.io/) Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.  Este libro tiene mucho más contenido que el que vamos a necesitar pero los capítulos 2, 3, 4 y 5 son los capítulos útiles para nosotros.
 
 ### Aprendizaje Automático
 
-* [ISLP](https://www.statlearning.com/) An Introduction to Statistical Learning with Python. En especial la versión de Python
+* [ISLP](https://www.statlearning.com/) An Introduction to Statistical Learning with Python by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor. ISBN-13 978-3031387463. En especial la versión de Python.
