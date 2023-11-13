@@ -23,16 +23,23 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 ## Anuncios
 
-1. **[13/11/2023]** Agregado notebook de clase de regularización.
-2. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-3. **[13/11/2023]** Publicada la página de la materia!
+1. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+2. **[13/11/2023]** Agregado notebook de clase de regularización.
+3. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+4. **[13/11/2023]** Publicada la página de la materia!
+
 
 ## Calendario
 
 Fecha | Tema | Material | Nota | Acuerdos
 :-----:|-------|:--------:|--------|--------
-13/11 | Introducción a métodos de regularización: Lasso y Ridge.  | [03_Regularizacion](https://ml.ucv.ai/notebooks/03_Regularizacion.ipynb "download") | Versión b.1 | Tarea debe ser cambiada y enviada para el 15/11/23.
-10/11 | Regresión Logística  | [Regresión Logística](https://ml.ucv.ai/notebooks/02_Logistic_Regression.ipynb "download") | Enviado notebook a los alumnos
+13/11/23| Introducción a métodos de regularización: Lasso y Ridge. | [03_Regularización](https://ml.ucv.ai/notebooks/03_Regularizacion.ipynb "download") | Versión b.1 | Tarea debe ser cambiada.
+10/11/23| Regresión Logística | [02_Regresión Logística](https://ml.ucv.ai/notebooks/02_Logistic_Regression.ipynb "download") | Enviado notebook a los alumnos |
+31/10/23 | Cálculos en clase sobre ecuaciones normales| [01_Regresión cálculos completos](https://ml.ucv.ai/clases/01_Regresion_tarea3_calculos_completos.pdf) | El pdf está anotado por mí luego de clase (comentarios en cada paso)|  
+28/10/23 | Derivando solución de Regresión Lineal | [01_Regresion solución](https://ml.ucv.ai/clases/01_Regresion_Solucion.pdf "download")| Clase donde derivamos haciendo repaso de álgebra lineal| | El 21 de octubre íbamos a derivr la solución.
+23/10/23 | Introducción a Regresión Lineal | [01_Regresión introducción](https://ml.ucv.ai/clases/01_Regresion_Introduccion.pdf "download") | **Tarea**: Derivar ecuaciones normales. | 
+20/10/23 | Aprendizaje Supervisado y Modelos Clásicos | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Aprendizaje_Supervisado.pdf "download") | | 
+16/10/23 |Introducción: Inteligencia | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Introduccion_Clase_Inteligencia.pdf "download")| **Tarea:** Leer [paper](https://academic.oup.com/mind/article/LIX/236/433/986238) de Alan Turing | [Video de Francois Chollet](https://www.youtube.com/watch?v=oD54vJlG-S4)
 
 ## Código de honor
 
