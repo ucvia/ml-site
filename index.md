@@ -30,7 +30,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 Fecha | Tema | Material | Nota
 :-----:|-------|:--------:|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie | Esto es una nota
+10/11 | Regresión Logística  | [Regresión Logística](https://ml.ucv.ai/notebooks/02_Logistic_Regression.ipynb "download") | Enviado notebook a los alumnos
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock | Esto es una nota
 2014 | Satellite | Won Best Actor miniseries or television film | Esto es una nota
 
@@ -69,7 +69,7 @@ Cualquier elemento de las referencias usado en una clase será referenciado con 
 ### Álgebra Lineal
 
 * [Kolter](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html) Repaso de Álgebra Lineal de J. Zico Kolter
-* [Strang - MOOC](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) Curso online Matrix Methods In Data Analysis, Signal Processing, And Machine Learning basado en [Strang-Data]
+* [Strang-MOOC](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) Curso online Matrix Methods In Data Analysis, Signal Processing, And Machine Learning basado en [Strang-Data]
 * [Strang-Data](https://math.mit.edu/~gs/learningfromdata/) Linear Algebra and Learning from Data (2019)
 by Gilbert Strang   (gilstrang@gmail.com)     ISBN : 978-06921963-8-0
 
