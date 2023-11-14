@@ -4,6 +4,7 @@ url: "https://ml.ucv.ai"
 baseurl: ""
 remote_theme: ankitsultana/researcher@gem
 description: Curso de Aprendizaje Automático (ML) de la Universidad Central de Venezuela.
+image:  "./static/favicon_io/android-chrome-192x192.png"
 
 markdown: kramdown
 favicon_location: "./static/logo.ico"
