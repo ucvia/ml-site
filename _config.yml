@@ -1,9 +1,12 @@
 title: Aprendizaje automático
+author: Fernando Crema Garcia
 url: "https://ml.ucv.ai"
 baseurl: ""
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
+favicon_location: "./static/logo.ico"
+favicon: yes
 #ins_logo: "./static/logo.png"
 
 tracking_id: #
