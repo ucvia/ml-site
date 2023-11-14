@@ -3,6 +3,7 @@ author: Fernando Crema Garcia
 url: "https://ml.ucv.ai"
 baseurl: ""
 remote_theme: ankitsultana/researcher@gem
+description: Curso de Aprendizaje Automático (ML) de la Universidad Central de Venezuela.
 
 markdown: kramdown
 favicon_location: "./static/logo.ico"
