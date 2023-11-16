@@ -15,14 +15,15 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 ---
 
 > All models are wrong but some are useful
+> George Box
 
 1. [Anuncios](#anuncios)
-2. [Calendario](#Calendario)
-3. [Evaluaciones](#Evaluaciones)
-4. [Código de Honor](#codigo-de-honor)
+2. [Calendario](#calendario)
+3. [Evaluaciones](#evaluaciones)
+4. [Código de Honor](#código-de-honor)
 5. [Referencias](#referencias)
 
-## Anuncios
+## Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
 1. **[15/11/2023]** Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
@@ -33,7 +34,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 6. **[13/11/2023]** Publicada la página de la materia!
 
 
-## Calendario
+## Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 Fecha | Tema | Material | Nota | Acuerdos
 :-----:|-------|:--------:|--------|--------
@@ -46,11 +47,11 @@ Fecha | Tema | Material | Nota | Acuerdos
 20/10/23 | Aprendizaje Supervisado y Modelos Clásicos | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Aprendizaje_Supervisado.pdf "download") | | 
 16/10/23 |Introducción: Inteligencia | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Introduccion_Clase_Inteligencia.pdf "download")| **Tarea:** Leer [paper](https://academic.oup.com/mind/article/LIX/236/433/986238) de Alan Turing <br> [Video de Francois Chollet](https://www.youtube.com/watch?v=oD54vJlG-S4) |
 
-## Evaluaciones
+## Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 1. La parte de Python del laboratorio evaluado 1 está disponible en [01_Tarea Python](https://ml.ucv.ai/tareas/01_Tarea_Python.pdf "download") y el [Notebook base](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb "download") explicado en el enunciado.
 
-## Código de honor
+## Código de honor <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 <img class="profile-picture" src="/static/thanos.jpeg">
 
@@ -78,7 +79,7 @@ Lo mismo se aplica a las herramientas de IA generativa, como ChatGPT, Bard, Bing
 
 Cualquier duda pueden contactar al grupo docente.
 
-## Referencias
+## Referencias <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 Cualquier elemento de las referencias usado en una clase será referenciado con [Nombre-Referencia]
 

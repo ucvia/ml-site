@@ -33,8 +33,9 @@ hr {
  */
 
 #author-name {
-    font-size: 30px;
-    color: #272727;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 40px;
+    color: rgb(134, 38, 51);
     display: inline-block;
 }
 .navbar {
@@ -49,6 +50,7 @@ hr {
 .nav-list {
     list-style-type: none;
     margin: 0 5px 0 10px;
+    padding-top: 10px;
 }
 .alignable {
     display: inline-block;
@@ -74,12 +76,30 @@ hr {
 
 /* Institute Image */
 
+h2{
+    color: rgb(134, 38, 51);
+}
+
 #ins-logo {
 	margin: auto;
 	display: block;
 	max-height: 100px;
 	text-align: center;
 }
+
+.btn {
+    background-color: rgb(134, 38, 51); /* Blue background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 5px 7px; /* Some padding */
+    font-size: 15px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: rgb(240, 188, 66);
+  }
 
 /* Mobile */
 
