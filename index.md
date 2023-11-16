@@ -6,15 +6,15 @@ layout: default
 
 **Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
 
-<img class="profile-picture" src="sherlock.jpg">
-
 Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 **Preparadores**: TBD.
 
 ---
+<a href="https://en.wikipedia.org/wiki/George_E._P._Box"> <img class="profile-picture" src="/static/box.jpg"> </a>
 
-> **All models are wrong but some are useful** <br> George Box
+> **All models are wrong but some are useful** <br> George Box 
+
 
 1. [Anuncios](#anuncios)
 2. [Calendario](#calendario)
