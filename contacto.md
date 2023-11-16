@@ -21,5 +21,5 @@ is_contact: true
 
 ## Social
 
-1. [Linkedin](#fernandocrema)
-1. [Twitter](#FernandoCremaG)
+1. [Linkedin](https://www.linkedin.com/in/fernandocrema/)
+1. [Twitter](https://twitter.com/FernandoCremaG)
