@@ -14,8 +14,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 ---
 
-> All models are wrong but some are useful
-> George Box
+> **All models are wrong but some are useful** <br> George Box
 
 1. [Anuncios](#anuncios)
 2. [Calendario](#calendario)
