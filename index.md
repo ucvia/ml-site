@@ -18,17 +18,19 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 1. [Anuncios](#anuncios)
 2. [Calendario](#Calendario)
-3. [Código de Honor](#codigo-de-honor)
-4. [Referencias](#referencias)
+3. [Evaluaciones](#Evaluaciones)
+4. [Código de Honor](#codigo-de-honor)
+5. [Referencias](#referencias)
 
 ## Anuncios
 
 
-1. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-2. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-3. **[13/11/2023]** Agregado notebook de clase de regularización.
-4. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-5. **[13/11/2023]** Publicada la página de la materia!
+1. **[15/11/2023]** Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
+2. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+3. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+4. **[13/11/2023]** Agregado notebook de clase de regularización.
+5. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+6. **[13/11/2023]** Publicada la página de la materia!
 
 
 ## Calendario
@@ -42,7 +44,11 @@ Fecha | Tema | Material | Nota | Acuerdos
 28/10/23 | Derivando solución de Regresión Lineal | [01_Regresión solución](https://ml.ucv.ai/clases/01_Regresion_Solucion.pdf "download")| Clase donde derivamos haciendo repaso de álgebra lineal | El 21 de octubre íbamos a derivar la solución.
 23/10/23 | Introducción a Regresión Lineal | [01_Regresión introducción](https://ml.ucv.ai/clases/01_Regresion_Introduccion.pdf "download") | **Tarea**: Derivar ecuaciones normales. | 
 20/10/23 | Aprendizaje Supervisado y Modelos Clásicos | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Aprendizaje_Supervisado.pdf "download") | | 
-16/10/23 |Introducción: Inteligencia | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Introduccion_Clase_Inteligencia.pdf "download")| **Tarea:** Leer [paper](https://academic.oup.com/mind/article/LIX/236/433/986238) de Alan Turing <br> [Video de Francois Chollet](https://www.youtube.com/watch?v=oD54vJlG-S4) | 
+16/10/23 |Introducción: Inteligencia | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Introduccion_Clase_Inteligencia.pdf "download")| **Tarea:** Leer [paper](https://academic.oup.com/mind/article/LIX/236/433/986238) de Alan Turing <br> [Video de Francois Chollet](https://www.youtube.com/watch?v=oD54vJlG-S4) |
+
+## Evaluaciones
+
+1. La parte de Python del laboratorio evaluado 1 está disponible en [01_Tarea Python](https://ml.ucv.ai/tareas/01_Tarea_Python.pdf "download") y el [Notebook base](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb "download") explicado en el enunciado.
 
 ## Código de honor
 
