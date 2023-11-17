@@ -114,6 +114,7 @@ by Gilbert Strang   (gilstrang@gmail.com)  ISBN 13: 978-06921963-8-0
 ## Matemática para Aprendizaje Automático
 
 * [MML](https://mml-book.github.io/) Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.  Este libro tiene mucho más contenido que el que vamos a necesitar pero los capítulos 2, 3, 4 y 5 son los capítulos útiles para nosotros.
+* [WASS](https://link.springer.com/book/10.1007/978-0-387-21736-9) All of Statistics - Larry Wasserman. Por si quieren repasar teoría de probabilidades y estadística.
 
 ## Aprendizaje Automático
 
