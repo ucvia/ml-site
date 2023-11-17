@@ -33,8 +33,9 @@ hr {
  */
 
 #author-name {
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    font-size: 40px;
+    text-shadow: -1px 0 rgb(240, 188, 66), 0 1px rgb(240, 188, 66), 1px 0 rgb(240, 188, 66), 0 -1px rgb(240, 188, 66);
+    font-size: 50px;
+    font-weight: bold;
     color: rgb(134, 38, 51);
     display: inline-block;
 }
@@ -50,7 +51,7 @@ hr {
 .nav-list {
     list-style-type: none;
     margin: 0 5px 0 10px;
-    padding-top: 10px;
+    padding-top: 15px;
 }
 .alignable {
     display: inline-block;
@@ -77,6 +78,11 @@ hr {
 /* Institute Image */
 
 h2{
+    color: rgb(134, 38, 51);
+}
+
+h1 {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     color: rgb(134, 38, 51);
 }
 

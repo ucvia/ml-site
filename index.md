@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Aprendizaje Automático [6561] - II 2023
+# Aprendizaje Automático [6561] - II 2023
 
 **Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
 
@@ -17,23 +17,49 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 
 1. [Anuncios](#anuncios)
-2. [Calendario](#calendario)
-3. [Evaluaciones](#evaluaciones)
+2. [Evaluaciones](#evaluaciones)
+3. [Calendario](#calendario)
 4. [Código de Honor](#código-de-honor)
 5. [Referencias](#referencias)
 
-## Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+# Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[15/11/2023]** Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
-2. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-3. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-4. **[13/11/2023]** Agregado notebook de clase de regularización.
-5. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-6. **[13/11/2023]** Publicada la página de la materia!
+1. **[17/11/2023]** Publicadas fechas de evaluaciones.
+2. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
+3. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+4. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+5. **[13/11/2023]** Agregado notebook de clase de regularización.
+6. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+7. **[13/11/2023]** Publicada la página de la materia!
 
+# Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-## Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+Tareas y asignaciones | Exámenes | Proyectos | Total
+:--------:|:-------:|:-------:|:--------:
+30% | 40% | 30% | 100%
+
+## Proyecto
+
+| | Grupos A | Grupos B |
+:---------:|:--------:|:-------:|
+**Fecha** | 19/02/2024 | 23/02/2024
+**Asignados** | Por definir | Por definir 
+
+## Exámenes teóricos
+
+ | | Examen 1 | Examen 2|
+:---------:|:--------:|:-------:|
+**Fecha** | 15/12/2023|09/02/2024
+**Temas** |  Tema 1, Tema 2, Tema 3 y Tema 6 (para regresión y clasificación). | Todos
+
+## Asignaciones
+
+### 1. Regresión, clasificación y Python
+
+1. La parte de Python del laboratorio evaluado 1 está disponible en [01_Tarea Python](https://ml.ucv.ai/tareas/01_Tarea_Python.pdf "download") y el [Notebook base](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb "download") explicado en el enunciado.
+
+# Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 Fecha | Tema | Material | Nota | Acuerdos
 :-----:|-------|:--------:|--------|--------
@@ -46,11 +72,7 @@ Fecha | Tema | Material | Nota | Acuerdos
 20/10/23 | Aprendizaje Supervisado y Modelos Clásicos | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Aprendizaje_Supervisado.pdf "download") | | 
 16/10/23 |Introducción: Inteligencia | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Introduccion_Clase_Inteligencia.pdf "download")| **Tarea:** Leer [paper](https://academic.oup.com/mind/article/LIX/236/433/986238) de Alan Turing <br> [Video de Francois Chollet](https://www.youtube.com/watch?v=oD54vJlG-S4) |
 
-## Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
-
-1. La parte de Python del laboratorio evaluado 1 está disponible en [01_Tarea Python](https://ml.ucv.ai/tareas/01_Tarea_Python.pdf "download") y el [Notebook base](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb "download") explicado en el enunciado.
-
-## Código de honor <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+# Código de honor <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 <img class="profile-picture" src="/static/thanos.jpeg">
 
@@ -64,35 +86,35 @@ Qué podemos hacer?
 2. Qué tipo de bibliotecas usar?
 3. Cómo puedo instalar un framework? 
 
-### Uso de internet
+## Uso de internet
 
 También puedes consultar Internet para obtener información, siempre que no revele la solución. Si una pregunta te pide que diseñes e implementes un algoritmo para un problema, está bien si encuentras información sobre cómo resolver un problema pero no está bien si buscas el código o el algoritmo para el problema que te están preguntando. 
 
-### Proyectos
+## Proyectos
 
 Para los proyectos, puedes hablar con otros alumnos del curso sobre dudas sobre el lenguaje de programación, librerías, algún tema de API, etcétera, pero tanto las soluciones como la programación deben ser tuyas. 
 
-### Uso de LLM
+## Uso de LLM
 
 Lo mismo se aplica a las herramientas de IA generativa, como ChatGPT, Bard, Bing, etc. Estas pueden ser herramientas útiles en tu trabajo. Sin embargo, el uso de dichas herramientas cuando no esté explícitamente permitido será tratado como **plagio** y está **estrictamente** prohibido.
 
 Cualquier duda pueden contactar al grupo docente.
 
-## Referencias <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+# Referencias <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 Cualquier elemento de las referencias usado en una clase será referenciado con [Nombre-Referencia]
 
-### Álgebra Lineal
+## Álgebra Lineal
 
 * [Kolter](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html) Repaso de Álgebra Lineal de J. Zico Kolter
 * [Strang-MOOC](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) Curso online Matrix Methods In Data Analysis, Signal Processing, And Machine Learning basado en [Strang-Data]
 * [Strang-Data](https://math.mit.edu/~gs/learningfromdata/) Linear Algebra and Learning from Data (2019)
 by Gilbert Strang   (gilstrang@gmail.com)  ISBN 13: 978-06921963-8-0
 
-### Matemática para Aprendizaje Automático
+## Matemática para Aprendizaje Automático
 
 * [MML](https://mml-book.github.io/) Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.  Este libro tiene mucho más contenido que el que vamos a necesitar pero los capítulos 2, 3, 4 y 5 son los capítulos útiles para nosotros.
 
-### Aprendizaje Automático
+## Aprendizaje Automático
 
 * [ISLP](https://www.statlearning.com/) An Introduction to Statistical Learning with Python by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor. ISBN-13 978-3031387463. En especial la versión de Python.
