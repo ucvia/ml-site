@@ -25,13 +25,15 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[17/11/2023]** Publicadas fechas de evaluaciones.
-2. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
-3. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-4. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-5. **[13/11/2023]** Agregado notebook de clase de regularización.
-6. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-7. **[13/11/2023]** Publicada la página de la materia!
+1. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+2. **[18/11/2023]** Disponible clase trade off bias-variance.
+3. **[17/11/2023]** Publicadas fechas de evaluaciones.
+4. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
+5. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+6. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+7. **[13/11/2023]** Agregado notebook de clase de regularización.
+8. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+9. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -63,6 +65,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos
 :-----:|-------|:--------:|--------|--------
+17/11/23 | El tradeoff _bias-variance_ (sesgo vs. varianza). | [04_Tradeoff Bias-Variance](https://ml.ucv.ai/notebooks/04_Bias_Variance_Tradeoff.ipynb "download") | Sección 2.1.3 de [ISLP] | Acordada fecha examen parcial para el 15/12/2023.
 13/11/23 | Introducción a métodos de regularización: Lasso y Ridge. | [03_Regularización](https://ml.ucv.ai/notebooks/03_Regularizacion.ipynb "download") | Versión b.1 | Tarea debe ser cambiada.
 10/11/23 | Regresión Logística | [02_Regresión Logística](https://ml.ucv.ai/notebooks/02_Logistic_Regression.ipynb "download") | Enviado notebook a los alumnos | A partir de esta clase compartimos todo via Notebooks.
 01/11/23 |Laboratorio Docker, Docker-Compose y Flask|[Repositorio Laboratorio](https://github.com/ucvia/ml-lab00-python-docker.git)| Usaremos este stack en el **proyecto**, pueden cambiar [Flask](https://flask.palletsprojects.com/en/3.0.x/) por [FastAPI](https://fastapi.tiangolo.com/) |
