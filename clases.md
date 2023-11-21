@@ -26,7 +26,7 @@ layout: default
 
 - **Fecha**: 20/11/2023
 
-[![05 Seleccion de Modelos y Evaluación](/static/video4.jpg)](https://youtu.be/26lr5_rtnUY "05 Seleccion de Modelos y Evaluación")
+[![05 Seleccion de Modelos y Evaluación](/static/model-selection.jpg)](https://youtu.be/26lr5_rtnUY "05 Seleccion de Modelos y Evaluación")
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
 
