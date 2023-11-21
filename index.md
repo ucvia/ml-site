@@ -15,7 +15,6 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 > **All models are wrong but some are useful** <br> George Box 
 
-
 1. [Anuncios](#anuncios)
 2. [Evaluaciones](#evaluaciones)
 3. [Calendario](#calendario)
@@ -23,7 +22,6 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 5. [Referencias](#referencias)
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
-
 
 1. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
 2. **[18/11/2023]** Disponible clase trade off bias-variance.

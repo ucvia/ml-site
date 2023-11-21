@@ -29,5 +29,7 @@ nav:
    link: "/"
  - name: "Nota informativa"
    link: "AprendizajeAutomatico-6561.pdf"
+ - name: "Clases"
+   link: "clases"
  - name: "Contacto"
    link: "contacto"
