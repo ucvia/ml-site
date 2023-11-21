@@ -32,6 +32,13 @@ hr {
  * Navbar
  */
 
+.active{
+   font-weight: bold; 
+   text-shadow: -.7px 0 rgb(134, 38, 51), 0 .7px rgb(134, 38, 51), .7px 0 rgb(134, 38, 51), 0 -.7px rgb(134, 38, 51);
+   color:rgb(240, 188, 66);
+   font-size: 18px;
+}
+
 #author-name {
     text-shadow: -1px 0 rgb(240, 188, 66), 0 1px rgb(240, 188, 66), 1px 0 rgb(240, 188, 66), 0 -1px rgb(240, 188, 66);
     font-size: 50px;

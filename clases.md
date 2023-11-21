@@ -1,12 +1,13 @@
 ---
 layout: default
+is_contact: false
 ---
 
 ## 01 Regresión - Cálculos
 
 - **Fecha**: 30/10/2023
 
-[![01 Regresión - Cálculos](/static/calculos.jpg)](https://youtu.be/CqUOWpGIs0o "01 Regresión - Cálculos")
+[![01 Regresión - Cálculos](/static/calculos.jpg)](https://youtu.be/watch?v=CqUOWpGIs0o "01 Regresión - Cálculos")
 
 ## 01 Regresión - Laboratorio
 
