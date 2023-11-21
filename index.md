@@ -23,15 +23,16 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-2. **[18/11/2023]** Disponible clase trade off bias-variance.
-3. **[17/11/2023]** Publicadas fechas de evaluaciones.
-4. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
-5. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-6. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-7. **[13/11/2023]** Agregado notebook de clase de regularización.
-8. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-9. **[13/11/2023]** Publicada la página de la materia!
+1. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+2. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+3. **[18/11/2023]** Disponible clase trade off bias-variance.
+4. **[17/11/2023]** Publicadas fechas de evaluaciones.
+5. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
+6. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+7. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+8. **[13/11/2023]** Agregado notebook de clase de regularización.
+9. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+10. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
