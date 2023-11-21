@@ -6,7 +6,7 @@ layout: default
 
 - **Fecha**: 30/10/2023
 
-[![01 Regresión - Cálculos](/static/calculos.jpg)](https://youtu.be/RsotsxMJo0Q "01 Regresión - Cálculos")
+[![01 Regresión - Cálculos](/static/calculos.jpg)](https://youtu.be/CqUOWpGIs0o "01 Regresión - Cálculos")
 
 ## 01 Regresión - Laboratorio
 
@@ -26,7 +26,7 @@ layout: default
 
 - **Fecha**: 13/11/2023
 
-[![03 Regularización Parte 1](/static/video1.jpeg)](https://www.youtube.com/watch?v=vN8SiScLuPE "03 Regularización Parte 1")
+[![03 Regularización Parte 1](/static/video1.jpeg)](https://youtu.be/RsotsxMJo0Q "03 Regularización Parte 1") 
 
 ### Parte 2
 
