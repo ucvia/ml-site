@@ -18,7 +18,7 @@ layout: default
 
 - **Fecha**: 10/11/2023
 
-[![02 Regresión Logística](/static/lab.jpg)](https://youtu.be/6KQRfy4JKkk "02 Regresión Logística")
+[![02 Regresión Logística](/static/logistic.jpg)](https://youtu.be/6KQRfy4JKkk "02 Regresión Logística")
 
 ## 03 Regularización
 
