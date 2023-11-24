@@ -23,17 +23,18 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
-2. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
-3. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-4. **[18/11/2023]** Disponible clase trade off bias-variance.
-5. **[17/11/2023]** Publicadas fechas de evaluaciones.
-6. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
-7. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-8. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-9. **[13/11/2023]** Agregado notebook de clase de regularización.
-10. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-11. **[13/11/2023]** Publicada la página de la materia!
+1. **[24/11/2023]** Agregada clase de selección de modelos!
+2. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
+3. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+4. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+5. **[18/11/2023]** Disponible clase trade off bias-variance.
+6. **[17/11/2023]** Publicadas fechas de evaluaciones.
+7. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
+8. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+9. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+10. **[13/11/2023]** Agregado notebook de clase de regularización.
+11. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+12. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -65,6 +66,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos
 :-----:|-------|:--------:|--------|--------
+24/11/23 | Selección y evaluación de modelos. | [05_Seleccion evaluación y pipeline](https://ml.ucv.ai/notebooks/05_Seleccion_Evaluacion_Pipeline.ipynb "download") |  | La palabra era optimista!!!
 17/11/23 | El tradeoff _bias-variance_ (sesgo vs. varianza). | [04_Tradeoff Bias-Variance](https://ml.ucv.ai/notebooks/04_Bias_Variance_Tradeoff.ipynb "download") | Sección 2.1.3 de [ISLP] | Acordada fecha examen parcial para el 15/12/2023.
 13/11/23 | Introducción a métodos de regularización: Lasso y Ridge. | [03_Regularización](https://ml.ucv.ai/notebooks/03_Regularizacion.ipynb "download") | Versión b.1 | Tarea debe ser cambiada.
 10/11/23 | Regresión Logística | [02_Regresión Logística](https://ml.ucv.ai/notebooks/02_Logistic_Regression.ipynb "download") | Enviado notebook a los alumnos | A partir de esta clase compartimos todo via Notebooks.
