@@ -43,8 +43,17 @@ is_contact: false
 
 ## 05 Seleccion de Modelos y Evaluación
 
+### Parte 1 
+
 - **Fecha**: 20/11/2023
 
 [![05 Selección de Modelos y Evaluación](/static/model-selection.jpg)](https://youtu.be/26lr5_rtnUY "05 Seleccion de Modelos y Evaluación")
+
+### Parte 2 + Curvas ROC
+
+- **Fecha**: 24/11/2023
+
+[![05 Selección de Modelos y Evaluación + Curvas ROC](/static/ROC_curve.jpg)](https://youtu.be/TF097FnhOWE "05 Selección de Modelos y Evaluación + Curvas ROC")
+
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
