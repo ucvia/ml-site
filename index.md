@@ -25,20 +25,21 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
-2. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
-3. **[24/11/2023]** Agregada clase de selección de modelos!
-4. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
-5. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
-6. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-7. **[18/11/2023]** Disponible clase trade off bias-variance.
-8. **[17/11/2023]** Publicadas fechas de evaluaciones.
-9. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
-10. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-11. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-12. **[13/11/2023]** Agregado notebook de clase de regularización.
-13. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-14. **[13/11/2023]** Publicada la página de la materia!
+1. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada tarea de Regresión Logística!
+2. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
+3. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
+4. **[24/11/2023]** Agregada clase de selección de modelos!
+5. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
+6. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+7. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+8. **[18/11/2023]** Disponible clase trade off bias-variance.
+9. **[17/11/2023]** Publicadas fechas de evaluaciones.
+10. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
+11. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+12. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+13. **[13/11/2023]** Agregado notebook de clase de regularización.
+14. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+15. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -62,9 +63,13 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 ## Asignaciones
 
-### 1. Regresión, clasificación y Python
+### 1. Python
 
 1. La parte de Python del laboratorio evaluado 1 está disponible en [01_Tarea Python](https://ml.ucv.ai/tareas/01_Tarea_Python.pdf "download") y el [Notebook base](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb "download") explicado en el enunciado.
+
+### 1. Regresión logística
+
+1. La tarea de Regresión logística está disponible en [01_Regresion Logistica](https://ml.ucv.ai/tareas/01_Regresion_Logistica.pdf "download")
 
 # Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
