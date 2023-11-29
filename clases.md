@@ -55,5 +55,10 @@ is_contact: false
 
 [![05 Selección de Modelos y Evaluación + Curvas ROC](/static/ROC_curve.jpg)](https://youtu.be/TF097FnhOWE "05 Selección de Modelos y Evaluación + Curvas ROC")
 
+## 06 Máquinas de Soporte Vectorial (SVM)
+
+[![06 Máquinas de Soporte Vectorial (SVM)](/static/SVM.jpg)](https://youtu.be/TSmf6xrx2j8 "06 Máquinas de Soporte Vectorial (SVM)")
+
+
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
