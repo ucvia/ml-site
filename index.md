@@ -25,22 +25,23 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
-2. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada tarea de Regresión Logística!
-3. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
-4. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
-5. **[24/11/2023]** Agregada clase de selección de modelos!
-6. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
-7. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
-8. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-9. **[18/11/2023]** Disponible clase trade off bias-variance.
-10. **[17/11/2023]** Publicadas fechas de evaluaciones.
-11. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
-12. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-13. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-14. **[13/11/2023]** Agregado notebook de clase de regularización.
-15. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-16. **[13/11/2023]** Publicada la página de la materia!
+1. **[29/11/2023]** Agregada clase de SVM!
+2. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
+3. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada tarea de Regresión Logística!
+4. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
+5. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
+6. **[24/11/2023]** Agregada clase de selección de modelos!
+7. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
+8. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+9. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+10. **[18/11/2023]** Disponible clase trade off bias-variance.
+11. **[17/11/2023]** Publicadas fechas de evaluaciones.
+12. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
+13. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+14. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+15. **[13/11/2023]** Agregado notebook de clase de regularización.
+16. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+17. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
