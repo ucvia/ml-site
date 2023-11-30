@@ -32,6 +32,11 @@ hr {
  * Navbar
  */
 
+ .grecaptcha-badge {
+    display: none;
+  }
+  
+
 .active{
    font-weight: bold; 
    text-shadow: -.7px 0 rgb(134, 38, 51), 0 .7px rgb(134, 38, 51), .7px 0 rgb(134, 38, 51), 0 -.7px rgb(134, 38, 51);
@@ -86,11 +91,12 @@ hr {
 
 h2{
     color: rgb(134, 38, 51);
+    font-size: 1.5em !important;
 }
 
 h1 {
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    color: rgb(134, 38, 51);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black !important;
+    color: rgb(134, 38, 51) !important;
 }
 
 #ins-logo {
