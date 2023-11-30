@@ -25,7 +25,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
+1. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
 2. **[29/11/2023]** Agregada clase de SVM!
 3. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
 4. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada tarea de Regresión Logística!
