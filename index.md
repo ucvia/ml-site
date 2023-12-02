@@ -25,24 +25,25 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
-2. **[29/11/2023]** Agregada clase de SVM!
-3. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
-4. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada tarea de Regresión Logística!
-5. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
-6. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
-7. **[24/11/2023]** Agregada clase de selección de modelos!
-8. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
-9. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
-10. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-11. **[18/11/2023]** Disponible clase trade off bias-variance.
-12. **[17/11/2023]** Publicadas fechas de evaluaciones.
-13. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
-14. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-15. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-16. **[13/11/2023]** Agregado notebook de clase de regularización.
-17. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-18. **[13/11/2023]** Publicada la página de la materia!
+1. **[02/12/2023]** Agregada clase de Árboles de Decisión.
+2. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
+3. **[29/11/2023]** Agregada clase de SVM!
+4. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
+5. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada tarea de Regresión Logística!
+6. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
+7. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
+8. **[24/11/2023]** Agregada clase de selección de modelos!
+9. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
+10. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+11. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+12. **[18/11/2023]** Disponible clase trade off bias-variance.
+13. **[17/11/2023]** Publicadas fechas de evaluaciones.
+14. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
+15. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+16. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+17. **[13/11/2023]** Agregado notebook de clase de regularización.
+18. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+19. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -78,6 +79,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos
 :-----:|-------|:--------:|--------|--------
+02/12/23 | Árboles de Decisión | [07_Árboles de decisión](https://ml.ucv.ai/notebooks/07_Arboles_de_decision.ipynb "download") | ISLP - Parte 9 | 
 28/11/23 | Máquinas de Soporte Vectorial (SVM). | [06_Máquinas de Soporte Vectorial (SVM)](https://ml.ucv.ai/notebooks/06_Maquinas_de_Soporte_Vectorial.ipynb "download") | ISLP - Parte 9 | 
 24/11/23 | Selección y evaluación de modelos. | [05_Seleccion evaluación y pipeline](https://ml.ucv.ai/notebooks/05_Seleccion_Evaluacion_Pipeline.ipynb "download") |  | La palabra era optimista!!!
 17/11/23 | El tradeoff _bias-variance_ (sesgo vs. varianza). | [04_Tradeoff Bias-Variance](https://ml.ucv.ai/notebooks/04_Bias_Variance_Tradeoff.ipynb "download") | Sección 2.1.3 de [ISLP] | Acordada fecha examen parcial para el 15/12/2023.
