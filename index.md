@@ -30,7 +30,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 3. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
 4. **[29/11/2023]** Agregada clase de SVM!
 5. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
-6. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada tarea de Regresión Logística!
+6. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada **Tarea 2.A: Regresión Logística.** !
 7. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
 8. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
 9. **[24/11/2023]** Agregada clase de selección de modelos!
