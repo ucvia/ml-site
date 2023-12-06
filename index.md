@@ -25,26 +25,27 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con **Tarea 2: Regresión Logística.**  
-2. **[02/12/2023]** Agregada clase de Árboles de Decisión.
-3. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
-4. **[29/11/2023]** Agregada clase de SVM!
-5. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
-6. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada **Tarea 2.A: Regresión Logística.** !
-7. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
-8. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
-9. **[24/11/2023]** Agregada clase de selección de modelos!
-10. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
-11. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
-12. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-13. **[18/11/2023]** Disponible clase trade off bias-variance.
-14. **[17/11/2023]** Publicadas fechas de evaluaciones.
-15. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada evaluación de Python del laboratorio 1 con Notebook de ejemplo.
-16. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-17. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-18. **[13/11/2023]** Agregado notebook de clase de regularización.
-19. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-20. **[13/11/2023]** Publicada la página de la materia!
+1. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
+2. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
+3. **[02/12/2023]** Agregada clase de Árboles de Decisión.
+4. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
+5. **[29/11/2023]** Agregada clase de SVM!
+6. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
+7. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
+8. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
+9. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
+10. **[24/11/2023]** Agregada clase de selección de modelos!
+11. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
+12. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+13. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+14. **[18/11/2023]** Disponible clase trade off bias-variance.
+15. **[17/11/2023]** Publicadas fechas de evaluaciones.
+16. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
+17. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+18. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+19. **[13/11/2023]** Agregado notebook de clase de regularización.
+20. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+21. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -72,7 +73,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 1. La parte de Python del laboratorio evaluado 1 está disponible en [01_Tarea Python](https://ml.ucv.ai/tareas/01_Tarea_Python.pdf "download") y el [Notebook base](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb "download") explicado en el enunciado.
 
-### 1. Regresión logística
+### 2. Regresión logística
 
 1. La tarea de Regresión logística está disponible en [01_Regresion Logistica](https://ml.ucv.ai/tareas/01_Regresion_Logistica.pdf "download")
 
