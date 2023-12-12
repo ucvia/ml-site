@@ -3,5 +3,5 @@ layout: entrega
 is_contact: false
 ---
 
-## **Entrega 01_Regresión Logística**
+## **Entrega 01_Python**
 
