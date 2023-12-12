@@ -25,27 +25,28 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
-2. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
-3. **[02/12/2023]** Agregada clase de Árboles de Decisión.
-4. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
-5. **[29/11/2023]** Agregada clase de SVM!
-6. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
-7. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
-8. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
-9. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
-10. **[24/11/2023]** Agregada clase de selección de modelos!
-11. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
-12. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
-13. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-14. **[18/11/2023]** Disponible clase trade off bias-variance.
-15. **[17/11/2023]** Publicadas fechas de evaluaciones.
-16. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
-17. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-18. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-19. **[13/11/2023]** Agregado notebook de clase de regularización.
-20. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-21. **[13/11/2023]** Publicada la página de la materia!
+1. **[12/12/2023]** Agregadas clases de Árboles de Decisión y Redes Neuronales en la sección [clases](https://ml.ucv.ai/clases)
+2. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
+3. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
+4. **[02/12/2023]** Agregada clase de Árboles de Decisión.
+5. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
+6. **[29/11/2023]** Agregada clase de SVM!
+7. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
+8. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
+9. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
+10. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
+11. **[24/11/2023]** Agregada clase de selección de modelos!
+12. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
+13. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+14. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+15. **[18/11/2023]** Disponible clase trade off bias-variance.
+16. **[17/11/2023]** Publicadas fechas de evaluaciones.
+17. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
+18. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+19. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+20. **[13/11/2023]** Agregado notebook de clase de regularización.
+21. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+22. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -79,8 +80,9 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 # Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-Fecha | Tema | Material | Nota | Acuerdos
+Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|--------
+08/12/23 | Redes Neuronales | [08_Redes Neuronales](https://github.com/udlbook/udlbook/releases/download/v1.16/UnderstandingDeepLearning_24_11_23_C.pdf "download") | Basado en **UDL** Capítulo 3  | 
 02/12/23 | Árboles de Decisión | [07_Árboles de decisión](https://ml.ucv.ai/notebooks/07_Arboles_de_decision.ipynb "download") | ISLP - Parte 9 | 
 28/11/23 | Máquinas de Soporte Vectorial (SVM). | [06_Máquinas de Soporte Vectorial (SVM)](https://ml.ucv.ai/notebooks/06_Maquinas_de_Soporte_Vectorial.ipynb "download") | ISLP - Parte 9 | 
 24/11/23 | Selección y evaluación de modelos. | [05_Seleccion evaluación y pipeline](https://ml.ucv.ai/notebooks/05_Seleccion_Evaluacion_Pipeline.ipynb "download") |  | La palabra era optimista!!!
@@ -141,3 +143,4 @@ by Gilbert Strang   (gilstrang@gmail.com)  ISBN 13: 978-06921963-8-0
 ## Aprendizaje Automático
 
 * [ISLP](https://www.statlearning.com/) An Introduction to Statistical Learning with Python by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor. ISBN-13 978-3031387463. En especial la versión de Python.
+* [UDL](https://udlbook.github.io/udlbook/) Understanding Deep Learning by Simon J.D. Prince Published by MIT Press Dec 5th 2023

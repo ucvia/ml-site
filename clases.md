@@ -59,6 +59,13 @@ is_contact: false
 
 [![06 Máquinas de Soporte Vectorial (SVM)](/static/SVM.jpg)](https://youtu.be/TSmf6xrx2j8 "06 Máquinas de Soporte Vectorial (SVM)")
 
+## 07 Árboles de Decisión
+
+[![07 Árboles de decisión](/static/DT.jpg)](https://youtu.be/4BMAsSc0fPk "07 Árboles de Decisión")
+
+## 08 Redes Neuronales
+
+[![08 Redes Neuronales](/static/NN.jpg)](https://youtu.be/LQvUhLY1zls "08 Redes Neuronales")
 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
