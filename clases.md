@@ -65,7 +65,22 @@ is_contact: false
 
 ## 08 Redes Neuronales
 
+### Clase 01 Redes Neuronales
+
 [![08 Redes Neuronales](/static/NN.jpg)](https://youtu.be/LQvUhLY1zls "08 Redes Neuronales")
 
+- **Fecha**: 08/12/2023
+
+### Clase 02 Redes Neuronales 2.0
+
+[![08 Redes Neuronales](/static/nn2.jpg)](https://youtu.be/YV5nVkZytk8 "08 Redes Neuronales 2.0")
+
+- **Fecha**: 12/01/2024 
+
+### Clase 03 Redes Neuronales con PyTorch
+
+[![08 Redes Neuronales con PyTorch](/static/torch.jpg)](https://youtu.be/KVqTCzKTWK8 "08 Redes Neuronales con PyTorch")
+
+- **Fecha**: 15/01/2023
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai

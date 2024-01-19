@@ -25,29 +25,30 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[15/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 1 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
-2. **[12/12/2023]** Agregadas clases de Árboles de Decisión y Redes Neuronales en la sección [clases](https://ml.ucv.ai/clases)
-3. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
-4. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
-5. **[02/12/2023]** Agregada clase de Árboles de Decisión.
-6. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
-7. **[29/11/2023]** Agregada clase de SVM!
-8. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
-9. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
-10. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
-11. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
-12. **[24/11/2023]** Agregada clase de selección de modelos!
-13. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
-14. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
-15. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-16. **[18/11/2023]** Disponible clase trade off bias-variance.
-17. **[17/11/2023]** Publicadas fechas de evaluaciones.
-18. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
-19. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-20. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-21. **[13/11/2023]** Agregado notebook de clase de regularización.
-22. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-23. **[13/11/2023]** Publicada la página de la materia!
+1. **[19/01/2024]** Agregadas clases de Redes Neuronales y Redes Neuronales con PyTorch!
+2. **[15/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 1 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
+3. **[12/12/2023]** Agregadas clases de Árboles de Decisión y Redes Neuronales en la sección [clases](https://ml.ucv.ai/clases)
+4. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
+5. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
+6. **[02/12/2023]** Agregada clase de Árboles de Decisión.
+7. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
+8. **[29/11/2023]** Agregada clase de SVM!
+9. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
+10. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
+11. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
+12. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
+13. **[24/11/2023]** Agregada clase de selección de modelos!
+14. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
+15. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+16. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+17. **[18/11/2023]** Disponible clase trade off bias-variance.
+18. **[17/11/2023]** Publicadas fechas de evaluaciones.
+19. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
+20. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+21. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+22. **[13/11/2023]** Agregado notebook de clase de regularización.
+23. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+24. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
