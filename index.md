@@ -25,30 +25,31 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[19/01/2024]** Agregadas clases de Redes Neuronales y Redes Neuronales con PyTorch!
-2. **[15/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 1 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
-3. **[12/12/2023]** Agregadas clases de Árboles de Decisión y Redes Neuronales en la sección [clases](https://ml.ucv.ai/clases)
-4. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
-5. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
-6. **[02/12/2023]** Agregada clase de Árboles de Decisión.
-7. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
-8. **[29/11/2023]** Agregada clase de SVM!
-9. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
-10. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
-11. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
-12. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
-13. **[24/11/2023]** Agregada clase de selección de modelos!
-14. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
-15. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
-16. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-17. **[18/11/2023]** Disponible clase trade off bias-variance.
-18. **[17/11/2023]** Publicadas fechas de evaluaciones.
-19. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
-20. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-21. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-22. **[13/11/2023]** Agregado notebook de clase de regularización.
-23. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-24. **[13/11/2023]** Publicada la página de la materia!
+1. **[19/01/2024]** Agregado notebook de redes neuronales!
+2. **[19/01/2024]** Agregadas clases de Redes Neuronales y Redes Neuronales con PyTorch!
+3. **[15/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 1 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
+4. **[12/12/2023]** Agregadas clases de Árboles de Decisión y Redes Neuronales en la sección [clases](https://ml.ucv.ai/clases)
+5. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
+6. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
+7. **[02/12/2023]** Agregada clase de Árboles de Decisión.
+8. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
+9. **[29/11/2023]** Agregada clase de SVM!
+10. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
+11. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
+12. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
+13. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
+14. **[24/11/2023]** Agregada clase de selección de modelos!
+15. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
+16. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+17. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+18. **[18/11/2023]** Disponible clase trade off bias-variance.
+19. **[17/11/2023]** Publicadas fechas de evaluaciones.
+20. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
+21. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+22. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+23. **[13/11/2023]** Agregado notebook de clase de regularización.
+24. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+25. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -85,6 +86,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|--------
+19/01/23 | Redes Neuronales con PyTorch | [08_Redes Neuronales](https://ml.ucv.ai/notebooks/08_Redes_Neuronales.ipynb "download")  | Basado en ...  | 
 08/12/23 | Redes Neuronales | [08_Redes Neuronales](https://github.com/udlbook/udlbook/releases/download/v1.16/UnderstandingDeepLearning_24_11_23_C.pdf "download") | Basado en **UDL** Capítulo 3  | 
 02/12/23 | Árboles de Decisión | [07_Árboles de decisión](https://ml.ucv.ai/notebooks/07_Arboles_de_decision.ipynb "download") | ISLP - Parte 9 | 
 28/11/23 | Máquinas de Soporte Vectorial (SVM). | [06_Máquinas de Soporte Vectorial (SVM)](https://ml.ucv.ai/notebooks/06_Maquinas_de_Soporte_Vectorial.ipynb "download") | ISLP - Parte 9 | 
