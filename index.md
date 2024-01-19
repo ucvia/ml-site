@@ -86,7 +86,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|--------
-19/01/23 | Redes Neuronales con PyTorch | [08_Redes Neuronales](https://ml.ucv.ai/notebooks/08_Redes_Neuronales.ipynb "download")  | Basado en ...  | 
+19/01/24 | Redes Neuronales con PyTorch | [08_Redes Neuronales](https://ml.ucv.ai/notebooks/08_Redes_Neuronales.ipynb "download")  | Basado en ...  | 
 08/12/23 | Redes Neuronales | [08_Redes Neuronales](https://github.com/udlbook/udlbook/releases/download/v1.16/UnderstandingDeepLearning_24_11_23_C.pdf "download") | Basado en **UDL** Capítulo 3  | 
 02/12/23 | Árboles de Decisión | [07_Árboles de decisión](https://ml.ucv.ai/notebooks/07_Arboles_de_decision.ipynb "download") | ISLP - Parte 9 | 
 28/11/23 | Máquinas de Soporte Vectorial (SVM). | [06_Máquinas de Soporte Vectorial (SVM)](https://ml.ucv.ai/notebooks/06_Maquinas_de_Soporte_Vectorial.ipynb "download") | ISLP - Parte 9 | 
