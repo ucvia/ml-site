@@ -25,31 +25,32 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[19/01/2024]** Agregado notebook de redes neuronales!
-2. **[19/01/2024]** Agregadas clases de Redes Neuronales y Redes Neuronales con PyTorch!
-3. **[15/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 1 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
-4. **[12/12/2023]** Agregadas clases de Árboles de Decisión y Redes Neuronales en la sección [clases](https://ml.ucv.ai/clases)
-5. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
-6. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
-7. **[02/12/2023]** Agregada clase de Árboles de Decisión.
-8. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
-9. **[29/11/2023]** Agregada clase de SVM!
-10. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
-11. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
-12. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
-13. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
-14. **[24/11/2023]** Agregada clase de selección de modelos!
-15. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
-16. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
-17. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-18. **[18/11/2023]** Disponible clase trade off bias-variance.
-19. **[17/11/2023]** Publicadas fechas de evaluaciones.
-20. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
-21. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-22. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-23. **[13/11/2023]** Agregado notebook de clase de regularización.
-24. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-25. **[13/11/2023]** Publicada la página de la materia!
+1. **[29/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** publicada!
+2. **[19/01/2024]** Agregado notebook de redes neuronales!
+3. **[19/01/2024]** Agregadas clases de Redes Neuronales y Redes Neuronales con PyTorch!
+4. **[15/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 1 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
+5. **[12/12/2023]** Agregadas clases de Árboles de Decisión y Redes Neuronales en la sección [clases](https://ml.ucv.ai/clases)
+6. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
+7. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
+8. **[02/12/2023]** Agregada clase de Árboles de Decisión.
+9. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
+10. **[29/11/2023]** Agregada clase de SVM!
+11. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
+12. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
+13. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
+14. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
+15. **[24/11/2023]** Agregada clase de selección de modelos!
+16. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
+17. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+18. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+19. **[18/11/2023]** Disponible clase trade off bias-variance.
+20. **[17/11/2023]** Publicadas fechas de evaluaciones.
+21. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
+22. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+23. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+24. **[13/11/2023]** Agregado notebook de clase de regularización.
+25. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+26. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -78,9 +79,14 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 1. La parte de Python del laboratorio evaluado 1 está disponible en [01_Tarea Python](https://ml.ucv.ai/tareas/01_Tarea_Python.pdf "download") y el [Notebook base](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb "download") explicado en el enunciado.
 
-### 2. Regresión logística
+### 2. Regresión logística 
 
 1. La tarea de Regresión logística está disponible en [01_Regresion Logistica](https://ml.ucv.ai/tareas/01_Regresion_Logistica.pdf "download")
+
+### 3. Python
+
+1. La tarea de Clasificación está disponible en el repositorio [Tarea 2: Clasifiación](https://github.com/ucvia/ml-tarea2B-knn-svm)
+
 
 # Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
