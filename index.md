@@ -25,32 +25,33 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[29/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** publicada!
-2. **[19/01/2024]** Agregado notebook de redes neuronales!
-3. **[19/01/2024]** Agregadas clases de Redes Neuronales y Redes Neuronales con PyTorch!
-4. **[15/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 1 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
-5. **[12/12/2023]** Agregadas clases de Árboles de Decisión y Redes Neuronales en la sección [clases](https://ml.ucv.ai/clases)
-6. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
-7. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
-8. **[02/12/2023]** Agregada clase de Árboles de Decisión.
-9. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
-10. **[29/11/2023]** Agregada clase de SVM!
-11. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
-12. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
-13. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
-14. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
-15. **[24/11/2023]** Agregada clase de selección de modelos!
-16. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
-17. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
-18. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
-19. **[18/11/2023]** Disponible clase trade off bias-variance.
-20. **[17/11/2023]** Publicadas fechas de evaluaciones.
-21. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
-22. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
-23. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
-24. **[13/11/2023]** Agregado notebook de clase de regularización.
-25. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
-26. **[13/11/2023]** Publicada la página de la materia!
+1. **[29/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Actualizada fecha parcial II: 26/02/24.
+2. **[29/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** publicada!
+3. **[19/01/2024]** Agregado notebook de redes neuronales!
+4. **[19/01/2024]** Agregadas clases de Redes Neuronales y Redes Neuronales con PyTorch!
+5. **[15/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 1 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
+6. **[12/12/2023]** Agregadas clases de Árboles de Decisión y Redes Neuronales en la sección [clases](https://ml.ucv.ai/clases)
+7. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Viernes 08/12/2023. Debo viajar a Italia por temas personales.
+8. **[03/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** será publicada el Miércoles 06/12/2023 para evitar solapamiento con [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)  
+9. **[02/12/2023]** Agregada clase de Árboles de Decisión.
+10. **[01/12/2023]** Disponible, en la sección [Entregas](https://ml.ucv.ai/entregas), formulario para envío de entregas. Cada alumno puede hacer hasta 3 cargas. Se evaluará **la última**.
+11. **[29/11/2023]** Agregada clase de SVM!
+12. **[28/11/2023]** Agregado notebook de Máquinas de Soporte Vectorial (SVM)
+13. **[27/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 2.A: Regresión Logística.**](#2-regresión-logística)!
+14. **[25/11/2023]** Toc (índice) de la página funciona nuevamente! 
+15. **[25/11/2023]** Agregado video de clase 24/11/2023 sobre selección de modelos y Curvas ROC.
+16. **[24/11/2023]** Agregada clase de selección de modelos!
+17. **[21/11/2023]** Creado nuevo video de **01 Regresión - Cálculos** (Parte 2 cargada erróneamente dos veces).  
+18. **[21/11/2023]** Agregada sección en el navbar de videos de las clases! 
+19. **[18/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Fecha de examen parcial 1 acordada para el 15/12/2023
+20. **[18/11/2023]** Disponible clase trade off bias-variance.
+21. **[17/11/2023]** Publicadas fechas de evaluaciones.
+22. **[15/11/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [**Tarea 1: Python**](#1-python) con Notebook de ejemplo.
+23. **[14/11/2023]** Disponible laboratorio de Docker, Docker-Compose y Flask.
+24. **[14/11/2023]** Agregadas clases anteriores previas a Regresión Logística.
+25. **[13/11/2023]** Agregado notebook de clase de regularización.
+26. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
+27. **[13/11/2023]** Publicada la página de la materia!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -69,7 +70,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
  | | Parcial 1 | Parcial 2|
 :---------:|:--------:|:-------:|
-**Fecha** | 15/12/2023|09/02/2024
+**Fecha** | 15/12/2023|26/02/2024
 **Temas** |  Tema 1, Tema 2, Tema 3 y Tema 6 (para regresión y clasificación). | Todos
 **Link** | [Parcial 1](https://github.com/ucvia/ml-parcial01) | TBD
 
