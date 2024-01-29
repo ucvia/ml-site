@@ -26,7 +26,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 1. **[29/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Actualizada fecha parcial II: 26/02/24.
-2. **[29/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** publicada!
+2. **[29/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Tarea 2.B: KNN, SVM** publicada! **Entrega: 11/02/2024**
 3. **[19/01/2024]** Agregado notebook de redes neuronales!
 4. **[19/01/2024]** Agregadas clases de Redes Neuronales y Redes Neuronales con PyTorch!
 5. **[15/12/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 1 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
@@ -86,7 +86,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 ### 3. Python
 
-1. La tarea de Clasificación está disponible en el repositorio [Tarea 2: Clasifiación](https://github.com/ucvia/ml-tarea2B-knn-svm)
+1. La tarea de Clasificación está disponible en el repositorio [Tarea 2: Clasificación](https://github.com/ucvia/ml-tarea2B-knn-svm) Entrega: 11/02/2024
 
 
 # Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
