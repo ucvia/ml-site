@@ -83,23 +83,32 @@ is_contact: false
 
 ### Clase 03 Redes Neuronales con PyTorch II
 
-[![08 Redes Neuronales con PyTorch](/static/torch.jpg)](https://www.youtube.com/watch?v=Y_r2CxPi5pc "08 Redes Neuronales con PyTorch II")
+[![08 Redes Neuronales con PyTorch II](/static/nn3.jpg)](https://www.youtube.com/watch?v=Y_r2CxPi5pc "08 Redes Neuronales con PyTorch II")
 - **Fecha**: 19/01/2023
   
 ### Clase 04 Redes Neuronales con PyTorch III
 
-[![08 Redes Neuronales con PyTorch](/static/torch.jpg)](https://www.youtube.com/watch?v=X-PD16vMp2U "08 Redes Neuronales con PyTorch III")
+[![08 Redes Neuronales con PyTorch](/static/torch2.jpg)](https://www.youtube.com/watch?v=X-PD16vMp2U "08 Redes Neuronales con PyTorch III")
 - **Fecha**: 22/01/2023
 
 ## Tarea 3: Clasificación + 09 Agrupamiento: K-medias 
 
-[![09 Agrupamiento k-medias](/static/nn3.jpg)](https://www.youtube.com/watch?v=YDg6ncsldds "09 Agrupamiento k-medias")
-- **Fecha**: 22/01/2023
+[![09 Agrupamiento k-medias](/static/kmeans.jpg)](https://www.youtube.com/watch?v=YDg6ncsldds "09 Agrupamiento k-medias")
+- **Fecha**: 26/01/2024
 
 ## 09 Agrupamiento: Agrupamiento jerárquico
 
-[![09 Agrupamiento: Agrupamiento jerárquico](/static/nn3.jpg)](https://www.youtube.com/watch?v=7KvMLFLAvk8 "09 Agrupamiento: Agrupamiento jerárquico")
-- **Fecha**: 22/01/2023
+[![09 Agrupamiento: Agrupamiento jerárquico](/static/hierarchy.jpg)](https://www.youtube.com/watch?v=7KvMLFLAvk8 "09 Agrupamiento: Agrupamiento jerárquico")
+- **Fecha**: 29/01/2024
+
+## 10 Reducción de dimensionalidad: PCA
+
+[![10 Reducción de dimensionalidad: PCA](/static/PCA.jpg)](https://youtu.be/mbErga-OQWA "10 Reducción de dimensionalidad: PCA")
+
+- **Fecha**: 02/02/2024
+
+
+
 
 
 
