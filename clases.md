@@ -86,7 +86,7 @@ is_contact: false
 [![08 Redes Neuronales con PyTorch II](/static/nn3.jpg)](https://www.youtube.com/watch?v=Y_r2CxPi5pc "08 Redes Neuronales con PyTorch II")
 - **Fecha**: 19/01/2023
   
-### Clase 04 Redes Neuronales con PyTorch III
+### Clase 04 Redes Neuronales con PyTorch III + Intro agrupamiento
 
 [![08 Redes Neuronales con PyTorch](/static/torch2.jpg)](https://www.youtube.com/watch?v=X-PD16vMp2U "08 Redes Neuronales con PyTorch III")
 - **Fecha**: 22/01/2023
