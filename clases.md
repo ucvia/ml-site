@@ -77,10 +77,33 @@ is_contact: false
 
 - **Fecha**: 12/01/2024 
 
-### Clase 03 Redes Neuronales con PyTorch
+### Clase 03 Redes Neuronales con PyTorch I
 
 [![08 Redes Neuronales con PyTorch](/static/torch.jpg)](https://youtu.be/KVqTCzKTWK8 "08 Redes Neuronales con PyTorch")
 
-- **Fecha**: 15/01/2023
+### Clase 03 Redes Neuronales con PyTorch II
+
+[![08 Redes Neuronales con PyTorch](/static/torch.jpg)](https://www.youtube.com/watch?v=Y_r2CxPi5pc "08 Redes Neuronales con PyTorch II")
+- **Fecha**: 19/01/2023
+  
+### Clase 04 Redes Neuronales con PyTorch III
+
+[![08 Redes Neuronales con PyTorch](/static/torch.jpg)](https://www.youtube.com/watch?v=X-PD16vMp2U "08 Redes Neuronales con PyTorch III")
+- **Fecha**: 22/01/2023
+
+## Tarea 3: Clasificación + 09 Agrupamiento: K-medias 
+
+[![09 Agrupamiento k-medias](/static/nn3.jpg)](https://www.youtube.com/watch?v=YDg6ncsldds "09 Agrupamiento k-medias")
+- **Fecha**: 22/01/2023
+
+## 09 Agrupamiento: Agrupamiento jerárquico
+
+[![09 Agrupamiento: Agrupamiento jerárquico](/static/nn3.jpg)](https://www.youtube.com/watch?v=7KvMLFLAvk8 "09 Agrupamiento: Agrupamiento jerárquico")
+- **Fecha**: 22/01/2023
+
+
+
+
+
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
