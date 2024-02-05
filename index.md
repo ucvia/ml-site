@@ -62,10 +62,10 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 ## Proyecto
 
-| | Grupos A | Grupos B |
-:---------:|:--------:|:-------:|
-**Fecha** | 19/02/2024 | 23/02/2024
-**Asignados** | Por definir | Por definir 
+| | Todos los Grupos | 
+:---------:|:--------:
+**Fecha** | 01/03/2024 
+**Asignados** | Por definir 
 
 ## Exámenes teóricos
 
