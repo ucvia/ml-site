@@ -115,7 +115,7 @@ is_contact: false
 
 - **Fecha**: 09/02/2024
   
-### Parte 1
+### Parte 2
 
 [![11 Sistemas de recomendación](/static/recomendacion2.jpg)](https://youtu.be/U-m80u-lOtw "11 Sistemas de recomendación")
 
