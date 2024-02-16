@@ -106,6 +106,38 @@ is_contact: false
 [![10 Reducción de dimensionalidad: PCA](/static/PCA.jpg)](https://youtu.be/mbErga-OQWA "10 Reducción de dimensionalidad: PCA")
 
 - **Fecha**: 02/02/2024
+  
+## 11 Sistemas de recomendación
+
+### Parte 1
+
+[![11 Sistemas de recomendación](/static/recomendacion1.jpg)](https://youtu.be/0srVjtm1N0c "11 Sistemas de recomendación")
+
+- **Fecha**: 09/02/2024
+  
+### Parte 1
+
+[![11 Sistemas de recomendación](/static/recomendacion2.jpg)](https://youtu.be/U-m80u-lOtw "11 Sistemas de recomendación")
+
+- **Fecha**: 16/02/2024
+
+# Aplicaciones
+
+## Procesamiento de Lenguaje Natural
+
+### Parte 1
+
+[![Procesamiento de Lenguaje Natural](/static/nlp.jpg)](https://youtu.be/JAaYU3_0ucA "Procesamiento de Lenguaje Natural")
+
+- **Fecha**: 15/02/2024
+
+### Parte 2 
+
+[![Procesamiento de Lenguaje Natural](/static/nlp2.jpg)](https://youtu.be/Vq5Rs7yreHU "Procesamiento de Lenguaje Natural")
+
+- **Fecha**: 15/02/2024
+
+
 
 
 
