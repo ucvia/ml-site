@@ -96,7 +96,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|--------
-17/02/24 |Sistemas de recomendación| [11_Sistemas_de_recomendación](https://ml.ucv.ai/notebooks/11_Sistemas_de_recomendación.ipynb "download")  | Basado en **MMDS** Capítulo 9. | 
+17/02/24 |Sistemas de recomendación| [11_Sistemas_de_recomendación](https://ml.ucv.ai/notebooks/11_Sistemas_de_recomendacion.ipynb "download")  | Basado en **MMDS** Capítulo 9. | 
 02/02/24 | Reducción de dimensionalidad | [10_Reduccion_de_Dimensionalidad](https://ml.ucv.ai/notebooks/10_Reduccion_de_Dimensionalidad.ipynb "download")  |   | 
 29/01/24 | Aprendizaje No supervisado: agrupación | [09_Agrupamiento](https://ml.ucv.ai/notebooks/09_Agrupamiento_clustering.ipynb "download")  | Tarea para el viernes 02/02/2024  | 
 19/01/24 | Redes Neuronales con PyTorch | [08_Redes Neuronales](https://ml.ucv.ai/notebooks/08_Redes_Neuronales.ipynb "download")  | Basado en ...  | 
