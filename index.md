@@ -25,7 +25,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. 8. **[26/02/2023]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 2 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
+1. **[26/02/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicado parcial 2 es la sección [**Exámenes teóricos**](#exámenes-teóricos).
 2. **[16/02/2024]** Agregados últimos videos de clases y clase de NLP dictada por el Prof. Wilmer.
 3. **[16/02/2024]** Agregados notebooks de Reducción de dimensionalidad PCA y Sistemas de recomendación.
 4. **[29/01/2024]** Agregado notebook de Aprendizaje no supervisado: Agrupación.
