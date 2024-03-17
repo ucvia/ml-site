@@ -75,10 +75,14 @@
                                 {% if x.name == "Entregas" and page.url == "/entregas.html" %}
                                     <li class="alignable pull-left nav-list" style="font-weight: bold;"><a class="active" href="{{ site.url }}/{{ x.link }}">{{ x.name }}</a>
                                 {% else %}
-                                    {% if x.name == "Principal" and page.url == "/" %}
+                                    {% if x.name == "Pregrado" and page.url == "/pregrado" %}
                                         <li class="alignable pull-left nav-list" style="font-weight: bold;"><a class="active" href="{{ site.url }}/{{ x.link }}">{{ x.name }}</a>
                                     {% else %}
-                                        <li class="alignable pull-left nav-list" style="font-weight: 300;"><a href="{{ site.url }}/{{ x.link }}">{{ x.name }}</a>
+                                        {% if x.name == "Principal" and page.url == "/" %}
+                                            <li class="alignable pull-left nav-list" style="font-weight: bold;"><a class="active" href="{{ site.url }}/{{ x.link }}">{{ x.name }}</a>
+                                        {% else %}
+                                            <li class="alignable pull-left nav-list" style="font-weight: 300;"><a href="{{ site.url }}/{{ x.link }}">{{ x.name }}</a>
+                                        {% endif %}
                                     {% endif %}
                                 {% endif %}
                             {% endif %}

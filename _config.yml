@@ -31,7 +31,7 @@ nav:
    link: "clases"
  - name: "Entregas"
    link: "entregas" 
- - name: "Nota informativa"
+ - name: "Pregrado"
    link: "pregrado"
  - name: "Contacto"
    link: "contacto"

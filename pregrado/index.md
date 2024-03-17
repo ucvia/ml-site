@@ -58,6 +58,10 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 30. **[13/11/2023]** Agregadas referencias sobre Álgebra Lineal
 31. **[13/11/2023]** Publicada la página de la materia!
 
+# Nota informativa
+
+La nota informativa de este curso está disponible en [Nota informativa II-2023](https://ml.ucv.ai/notas/AprendizajeAutomatico-6561.pdf)
+
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 Tareas y asignaciones | Exámenes | Proyectos | Total
@@ -92,7 +96,6 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 ### 3. Python
 
 1. La tarea de Clasificación está disponible en el repositorio [Tarea 2: Clasificación](https://github.com/ucvia/ml-tarea2B-knn-svm) Entrega: 11/02/2024
-
 
 # Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
