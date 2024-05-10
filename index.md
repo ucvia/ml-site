@@ -59,7 +59,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|--------
-10/05/24 | Introducción a ML y preliminares | [00_Aprendizaje supervisado](https://ml.ucv.ai/notebooks/I_24_00_Preliminares.ipynb "download") | Revisar **Strang-Data** y **Strang-MOOC** en referencias | 
+10/05/24 | Introducción a ML y preliminares | [00_Introducción a ML y preliminares](https://ml.ucv.ai/notebooks/I_24_00_Preliminares.ipynb "download") | Revisar **Strang-Data** y **Strang-MOOC** en referencias | 
 08/05/24 |Introducción: Inteligencia | [Video de Francois Chollet](https://www.youtube.com/watch?v=oD54vJlG-S4) | Lectura interesante: [paper](https://academic.oup.com/mind/article/LIX/236/433/986238) de Alan Turing <br>  |
 
 # Código de honor <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
