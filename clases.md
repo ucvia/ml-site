@@ -7,6 +7,6 @@ is_contact: false
 
 - **Fecha**: 10/15/2024
 
-[![00 Introducción y preliminares](/static/I_2024_00_preliminares.jpg)](https://youtu.be/jXMarLOM-BQ "00 Introducción y preliminares")
+[![00 Introducción y preliminares](/static/I_2024_00_preliminares.png)](https://youtu.be/jXMarLOM-BQ "00 Introducción y preliminares")
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
