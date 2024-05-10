@@ -2,6 +2,9 @@
 layout: default
 ---
 
+> Este curso está archivado, todo el contenido está disponible pero no va a modificarse en el futuro
+> Cualquier duda contacte a fernando.cremagarcia@kuleuven.be
+
 # Aprendizaje Automático [6561] - II 2023
 
 **Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
@@ -20,7 +23,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 1. [Anuncios](#anuncios--)
 2. [Evaluaciones](#evaluaciones--)
 3. [Calendario](#calendario--)
-4. [Clases anteriores](#clases--)
+4. [Clases anteriores](#clases-anteriores--)
 5. [Código de Honor](#código-de-honor--)
 6. [Referencias](#referencias--)
 
@@ -121,6 +124,7 @@ Fecha | Tema | Material | Nota | Acuerdos
 20/10/23 | Aprendizaje Supervisado y Modelos Clásicos | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Aprendizaje_Supervisado.pdf "download") | | 
 16/10/23 |Introducción: Inteligencia | [00_Aprendizaje supervisado](https://ml.ucv.ai/clases/00_Introduccion_Clase_Inteligencia.pdf "download")| **Tarea:** Leer [paper](https://academic.oup.com/mind/article/LIX/236/433/986238) de Alan Turing <br> [Video de Francois Chollet](https://www.youtube.com/watch?v=oD54vJlG-S4) |
 
+# Clases anteriores <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 ## 01 Regresión - Cálculos
 
