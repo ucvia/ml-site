@@ -13,7 +13,7 @@ is_contact: false
 
 ###  Parte 2
 
-- **Fecha**: 10/05/2024
+- **Fecha**: 15/05/2024
 
 [![00 Introducción y preliminares II](/static/I_2024_00_preliminares.png)](https://youtu.be/EvLQJetTi5k "00 Introducción y preliminares II")
 
