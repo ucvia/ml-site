@@ -25,6 +25,8 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
+1. **[18/11/2023]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
+1. **[18/11/2023]** Publicadas clases 2 (prelimnares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
 1. **[13/11/2023]** Publicada clase y notebook de preliminares e introducción a ML.
 1. **[13/11/2023]** Actualiziada página de la materia para I-2024. Bienvenidos!
 
@@ -59,6 +61,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|--------
+17/05/24 | Fin de preliminares e inicio de regresión| [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") | El notebook comprende clases 1, 2 y 3 | Al final del notebook hay una pequeña tarea. 
 10/05/24 | Introducción a ML y preliminares | [00_Introducción a ML y preliminares](https://ml.ucv.ai/notebooks/I_24_00_Preliminares.ipynb "download") | Revisar **Strang-Data** y **Strang-MOOC** en referencias | 
 08/05/24 |Introducción: Inteligencia | [Video de Francois Chollet](https://www.youtube.com/watch?v=oD54vJlG-S4) | Lectura interesante: [paper](https://academic.oup.com/mind/article/LIX/236/433/986238) de Alan Turing <br>  |
 
