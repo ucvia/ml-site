@@ -13,6 +13,6 @@ is_contact: false
 
 - **Fecha**: 17/05/2024
 
-[![00 Introducción y preliminares](/static/I_2024_01_regresion_1.png)](https://youtu.be/6qyPVXrV7hY "01 Regresión lineal: formulación")
+[![00 Introducción y preliminares](/static/0I_2024_01_regresion_1.png)](https://youtu.be/6qyPVXrV7hY "01 Regresión lineal: formulación")
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
