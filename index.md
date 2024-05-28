@@ -26,11 +26,12 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") actualizado de clases 1, 2 y 3.
-2. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
-3. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
-4. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
-5. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
+1. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
+2. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
+3. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
+4. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
+5. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
+6. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 

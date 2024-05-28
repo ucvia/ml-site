@@ -23,4 +23,12 @@ is_contact: false
 
 [![01 Regresión lineal: formulación](/static/I_2024_regresion_1.png)](https://youtu.be/6qyPVXrV7hY "01 Regresión lineal: formulación")
 
+## 01 Regresión lineal: Ecuaciones normales univariada y Scikit-Learn
+
+- **Fecha**: 24/05/2024
+
+[![01 Regresión lineal: ecuaciones y scikit-learn](/static/I_2024_regresion_2.png)](https://youtu.be/6KqtL-CmUyk "01 Regresión lineal: ecuaciones y scikit-learn")
+
+
+
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
