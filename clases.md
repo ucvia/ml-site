@@ -29,6 +29,10 @@ is_contact: false
 
 [![01 Regresión lineal: ecuaciones y scikit-learn](/static/I_2024_regresion_2.png)](https://youtu.be/6KqtL-CmUyk "01 Regresión lineal: ecuaciones y scikit-learn")
 
+## 02 Regresión Logística
 
+- **Fecha**: 29/05/2024
+
+[![02 Regresión Logística](/static/I_2024_logistic_2.png)](https://youtu.be/AIz-5GK-Pw4 "02 Regresión Logística")
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
