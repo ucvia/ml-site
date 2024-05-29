@@ -26,12 +26,14 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
-2. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
-3. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
-4. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
-5. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
-6. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
+1. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
+2. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
+3. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
+4. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
+5. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
+6. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
+7. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
+8. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -63,7 +65,8 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 # Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 Fecha | Tema | Material | Nota | Acuerdos 
-:-----:|-------|:--------:|--------|--------
+:-----:|-------|:--------:|--------|-------- 
+30/05/24 | Regresión Lineal | [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") | El número de parámetros del modelo es p(c+1) | Tarea Python será enviada el fin de semana. 
 24/05/24 | Regresión Lineal | [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb) | Tarea sobre derivación de ecuaciones normales | 
 17/05/24 | Fin de preliminares e inicio de regresión| [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") | El notebook comprende clases 1, 2 y 3 | Al final del notebook hay una pequeña tarea. 
 10/05/24 | Introducción a ML y preliminares | [00_Introducción a ML y preliminares](https://ml.ucv.ai/notebooks/I_24_00_Preliminares.ipynb "download") | Revisar **Strang-Data** y **Strang-MOOC** en referencias | 
