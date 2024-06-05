@@ -26,14 +26,15 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
-2. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
-3. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
-4. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
-5. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
-6. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
-7. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
-8. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
+1. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada Tarea 1: Python. En sección [Evaluaciones](##asignaciones).
+2. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
+3. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
+4. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
+5. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
+6. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
+7. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
+8. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
+9. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -60,7 +61,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 ### 1. Python
 
-1. La parte de Python del laboratorio evaluado 1 estará disponible en semana 2.
+1. La parte de Python del laboratorio evaluado 1 está disponible en [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") y el [Notebook base](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb "download") explicado en el enunciado.
 
 # Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
