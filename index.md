@@ -26,7 +26,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada Tarea 1: Python. En sección [Asignaciones](#Asignaciones).
+1. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") en sección [Asignaciones](#asignaciones).
 2. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
 3. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
 4. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
