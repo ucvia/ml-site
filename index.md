@@ -70,7 +70,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|-------- 
-06/06/24 | Introducción a ML y preliminares | [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download")  |  | Explicada Tarea 0: Python 
+06/06/24 | Introducción a regularización en regresión lineal: Lasso y Ridge | [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download")  |  | Explicada Tarea 0: Python 
 30/05/24 | Regresión Logística | [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") | El número de parámetros del modelo es p(c+1) | Tarea Python será enviada el fin de semana. 
 24/05/24 | Regresión Lineal | [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb) | Tarea sobre derivación de ecuaciones normales | 
 17/05/24 | Fin de preliminares e inicio de regresión| [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") | El notebook comprende clases 1, 2 y 3 | Al final del notebook hay una pequeña tarea. 
