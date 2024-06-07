@@ -41,6 +41,6 @@ is_contact: false
 
 - **Fecha**: 07/16/2023
 
-[![03 Regularización Parte 1](/static/video1.jpeg)](https://youtu.be/u6bc3Ae56Pc "03 Regularización Parte 1") 
+[![03 Regularización Parte 1](/static/I_2024_regularizacion_1.png)](https://youtu.be/u6bc3Ae56Pc "03 Regularización Parte 1") 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
