@@ -35,4 +35,12 @@ is_contact: false
 
 [![02 Regresión Logística](/static/I_2024_logistic_2.png)](https://youtu.be/AIz-5GK-Pw4 "02 Regresión Logística")
 
+## 03 Regularización
+
+### Parte 1
+
+- **Fecha**: 07/16/2023
+
+[![03 Regularización Parte 1](/static/video1.jpeg)](https://youtu.be/u6bc3Ae56Pc "03 Regularización Parte 1") 
+
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
