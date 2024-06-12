@@ -26,16 +26,17 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[06/06/2024]** Agregado notebook de Regularización [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download") 
-2. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") en sección [Asignaciones](#asignaciones).
-3. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
-4. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
-5. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
-6. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
-7. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
-8. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
-9. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
-10. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
+1. **[11/06/2024]** Agregado notebook de trade variance-bias [04 Variance-bias trade-off](https://ml.ucv.ai/notebooks/I_24_04_Bias_Variance_Tradeoff.ipynb "download")
+2. **[06/06/2024]** Agregado notebook de Regularización [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download") 
+3. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") en sección [Asignaciones](#asignaciones).
+4. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
+5. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
+6. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
+7. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
+8. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
+9. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
+10. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
+11. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -69,7 +70,8 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 
 Fecha | Tema | Material | Nota | Acuerdos 
-:-----:|-------|:--------:|--------|-------- 
+:-----:|-------|:--------:|--------|--------
+07/06/24 | Bias-variance tradeoff | [04 Variance-bias trade-off](https://ml.ucv.ai/notebooks/I_24_04_Bias_Variance_Tradeoff.ipynb "download") | |  
 06/06/24 | Introducción a regularización en regresión lineal: Lasso y Ridge | [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download")  |  | Explicada Tarea 0: Python 
 30/05/24 | Regresión Logística | [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") | El número de parámetros del modelo es p(c+1) | Tarea Python será enviada el fin de semana. 
 24/05/24 | Regresión Lineal | [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb) | Tarea sobre derivación de ecuaciones normales | 

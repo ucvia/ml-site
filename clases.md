@@ -39,7 +39,7 @@ is_contact: false
 
 ### Parte 1
 
-- **Fecha**: 07/16/2023
+- **Fecha**: 05/05/2024
 
 [![03 Regularización Parte 1](/static/I_2024_regularizacion_1.png)](https://youtu.be/u6bc3Ae56Pc "03 Regularización Parte 1") 
 
