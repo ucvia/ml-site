@@ -39,8 +39,17 @@ is_contact: false
 
 ### Parte 1
 
-- **Fecha**: 05/05/2024
+- **Fecha**: 05/06/2024
 
 [![03 Regularización Parte 1](/static/I_2024_regularizacion_1.png)](https://youtu.be/u6bc3Ae56Pc "03 Regularización Parte 1") 
+
+## 04 Tradeoff bias-variance
+
+- **Fecha**: 07/06/2024
+
+[![04 Tradeoff bias-variance](/static/I_2024_trade_vb.png)](https://youtu.be/-uLg7CMG-ME "04 Tradeoff bias-variance") 
+
+
+
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
