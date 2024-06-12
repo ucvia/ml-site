@@ -26,18 +26,19 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Discusión]**</span>Demostración de P(Y=K dado X=x) para regresión logística multiclase disponible en [Demostración Regresión Logística](https://ml.ucv.ai/notas/regresion_logistica.pdf "download")
-2. **[11/06/2024]** Agregado notebook de trade variance-bias [04 Variance-bias trade-off](https://ml.ucv.ai/notebooks/I_24_04_Bias_Variance_Tradeoff.ipynb "download")
-3. **[06/06/2024]** Agregado notebook de Regularización [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download") 
-4. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") en sección [Asignaciones](#asignaciones).
-5. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
-6. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
-7. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
-8. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
-9. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
-10. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
-11. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
-12. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
+1. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Clase extra]**</span> Por favor, llenen el siguiente Dooodle para poder realizar clase de recuperación.  [Clase recuperación Doodle]([https://ml.ucv.ai/notas/regresion_logistica.pdf "download"](https://doodle.com/meeting/participate/id/dL5OJgge)) 
+2. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Discusión]**</span>Demostración de P(Y=K dado X=x) para regresión logística multiclase disponible en [Demostración Regresión Logística](https://ml.ucv.ai/notas/regresion_logistica.pdf "download")
+3. **[11/06/2024]** Agregado notebook de trade variance-bias [04 Variance-bias trade-off](https://ml.ucv.ai/notebooks/I_24_04_Bias_Variance_Tradeoff.ipynb "download")
+4. **[06/06/2024]** Agregado notebook de Regularización [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download") 
+5. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") en sección [Asignaciones](#asignaciones).
+6. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
+7. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
+8. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
+9. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
+10. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
+11. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
+12. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
+13. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
