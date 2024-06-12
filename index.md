@@ -26,7 +26,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Discusión]**</span>Demostración de P(Y=K | X=x) para regresión logística multiclase disponible en [Demostración Regresión Logística](https://ml.ucv.ai/notas/regresion_logistica.pdf "download")
+1. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Discusión]**</span>Demostración de P(Y=K dado X=x) para regresión logística multiclase disponible en [Demostración Regresión Logística](https://ml.ucv.ai/notas/regresion_logistica.pdf "download")
 2. **[11/06/2024]** Agregado notebook de trade variance-bias [04 Variance-bias trade-off](https://ml.ucv.ai/notebooks/I_24_04_Bias_Variance_Tradeoff.ipynb "download")
 3. **[06/06/2024]** Agregado notebook de Regularización [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download") 
 4. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") en sección [Asignaciones](#asignaciones).
