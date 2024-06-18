@@ -49,6 +49,13 @@ is_contact: false
 
 [![04 Tradeoff bias-variance](/static/I_2024_trade_vb.png)](https://youtu.be/-uLg7CMG-ME "04 Tradeoff bias-variance") 
 
+## 05 Seleccion de Modelos y Evaluación
+
+### Parte 1 
+
+- **Fecha**: 14/06/2024
+
+[![05 Selección de Modelos y Evaluación](/static/model-selection.jpg)](https://youtu.be/XRCRe4LyQHg "05 Seleccion de Modelos y Evaluación")
 
 
 
