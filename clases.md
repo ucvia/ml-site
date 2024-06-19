@@ -57,6 +57,16 @@ is_contact: false
 
 [![05 Selección de Modelos y Evaluación](/static/model-selection.jpg)](https://youtu.be/XRCRe4LyQHg "05 Seleccion de Modelos y Evaluación")
 
+# Live coding sessions
+
+## 01 Regularización
+
+### Parte 1: Streamlit app + Modelos óptimos Lasso Lambda y s.
+
+[![05 Selección de Modelos y Evaluación](/static/I_2024_live_coding-1.png)](https://youtu.be/JjMlG3fEYpk "05 Seleccion de Modelos y Evaluación")
+
+
+
 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
