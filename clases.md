@@ -45,9 +45,17 @@ is_contact: false
 
 ## 04 Tradeoff bias-variance
 
+### Parte 1
+
 - **Fecha**: 07/06/2024
 
 [![04 Tradeoff bias-variance](/static/I_2024_trade_vb.png)](https://youtu.be/-uLg7CMG-ME "04 Tradeoff bias-variance") 
+
+### Parte 2
+
+- **Fecha**: 24/06/2024
+
+[![04 Tradeoff bias-variance: K-vecinos](/static/I_2024_knn.jpg)](https://youtu.be/t_HOaARNFFo "04 Tradeoff bias-variance: K-vecinos") 
 
 ## 05 Seleccion de Modelos y Evaluación
 
@@ -63,7 +71,11 @@ is_contact: false
 
 ### Parte 1: Streamlit app + Modelos óptimos Lasso Lambda y s.
 
-[![05 Selección de Modelos y Evaluación](/static/I_2024_live_coding-1.png)](https://youtu.be/JjMlG3fEYpk "05 Seleccion de Modelos y Evaluación")
+[![Parte 1: Streamlit app + Modelos óptimos Lasso Lambda](/static/I_2024_live_coding-1.png)](https://youtu.be/JjMlG3fEYpk "Parte 1: Streamlit app + Modelos óptimos Lasso Lambda")
+
+### Parte 1: Streamlit app + Modelos óptimos Lasso Lambda y s.
+
+[![Parte 2: Streamlit app + Modelos óptimos Lasso Lambda](/static/I_2024_live_coding-1.png)](https://youtu.be/LlpE3-Yzti0 "Parte 2: Streamlit app + Modelos óptimos Lasso Lambda")
 
 
 
