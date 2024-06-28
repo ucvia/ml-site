@@ -62,7 +62,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
  | | Parcial 1 | Parcial 2|
 :---------:|:--------:|:-------:|
-**Fecha** | 09/06/2024 | Por definir
+**Fecha** | 09/07/2024 | Por definir
 **Temas** |  Tema 1, Tema 2, Tema 3 y Tema 6 (para regresión y clasificación). | Todos
 **Link** | Por definir | Por definir
 
