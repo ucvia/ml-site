@@ -79,6 +79,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|--------
 05/07/2024 | Máquinas de soporte vectorial |[Repositorio del código ](https://ml.ucv.ai/notebooks/I_24_06_Máquinas_de_Soporte_Vectorial.ipynb "download")  | Vista toda la teoría, práctica para miércoles 10/07/2024 | 
+03/07/2024 | Evaluación y selección de modelos Clase II | [05 Evaluación y selección de modelos](https://ml.ucv.ai/notebooks/I_24_05_Seleccion_Evaluacion_Pipeline_v2.ipynb) | Este notebook es el mismo que [05 Evaluación y selección de modelos](https://ml.ucv.ai/notebooks/I_24_05_Seleccion_Evaluacion_Pipeline.ipynb) con cálculos de matriz de confusión | Modificamos parcial para el viernes 12/07
 19/06/2024 | Regularización con Lasso |[Repositorio del código ](https://github.com/ucvia/live_coding_regression)  | | Clase del miércoles 26 movida al lunes 24.
 14/06/2024 | Evaluación y selección de modelos | [05 Evaluación y selección de modelos](https://ml.ucv.ai/notebooks/I_24_05_Seleccion_Evaluacion_Pipeline.ipynb) | | 
 07/06/24 | Bias-variance tradeoff | [04 Variance-bias trade-off](https://ml.ucv.ai/notebooks/I_24_04_Bias_Variance_Tradeoff.ipynb "download") | |  
