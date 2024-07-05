@@ -3,6 +3,19 @@ layout: default
 is_contact: false
 ---
 
+# Índice
+
+1. [Introducción](#introducción--)
+2. [Regresión](#regresión--)
+3. [Tradeoff bias variance](#tradeoff-bias-variance--)
+4. [Selección de Modelos y Evaluación](#selección-de-modelos-y-evaluación--)
+5. [Clasificación](#clasificación--)
+6. [Live coding sessions](#live-coding-sessions--)
+
+-----
+
+# Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+
 ## 00 Introducción y preliminares
 
 ###  Parte 1
@@ -16,6 +29,8 @@ is_contact: false
 - **Fecha**: 15/05/2024
 
 [![00 Introducción y preliminares II](/static/I_2024_00_preliminares.png)](https://youtu.be/EvLQJetTi5k "00 Introducción y preliminares II")
+
+# Regresión <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 ## 01 Regresión lineal: formulación
 
@@ -43,6 +58,8 @@ is_contact: false
 
 [![03 Regularización Parte 1](/static/I_2024_regularizacion_1.png)](https://youtu.be/u6bc3Ae56Pc "03 Regularización Parte 1") 
 
+# Tradeoff bias variance <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+
 ## 04 Tradeoff bias-variance
 
 ### Parte 1
@@ -57,6 +74,8 @@ is_contact: false
 
 [![04 Tradeoff bias-variance: K-vecinos](/static/I_2024_knn.jpg)](https://youtu.be/t_HOaARNFFo "04 Tradeoff bias-variance: K-vecinos") 
 
+# Selección de Modelos y Evaluación <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+
 ## 05 Seleccion de Modelos y Evaluación
 
 ### Parte 1 
@@ -65,20 +84,38 @@ is_contact: false
 
 [![05 Selección de Modelos y Evaluación](/static/model-selection.jpg)](https://youtu.be/XRCRe4LyQHg "05 Seleccion de Modelos y Evaluación")
 
-# Live coding sessions
+### Parte 2 
+
+- **Fecha**: 14/06/2024
+
+[![05 Selección de Modelos y Evaluación](/static/model-selection-2.jpg)](https://youtu.be/6Wxj3Xe0nM8 "05 Seleccion de Modelos y Evaluación")
+
+### Parte 3 
+
+- **Fecha**: 14/06/2024
+
+[![05 Selección de Modelos y Evaluación](/static/model-selection-3.jpg)](https://youtu.be/CxV8otZ-w2M "05 Seleccion de Modelos y Evaluación")
+
+# Clasificación <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+
+## 06 Máquinas de Soporte Vectorial (SVM)
+
+- **Fecha**: 06/07/2024
+
+[![06 Máquinas de Soporte Vectorial](/static/I_24_SVM.jpg)](https://youtu.be/NseeMxd2P1w "06 Máquinas de Soporte Vectorial")
+
+
+# Live coding sessions <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 ## 01 Regularización
 
 ### Parte 1: Streamlit app + Modelos óptimos Lasso Lambda y s.
 
-[![Parte 1: Streamlit app + Modelos óptimos Lasso Lambda](/static/I_2024_live_coding-1.png)](https://youtu.be/JjMlG3fEYpk "Parte 1: Streamlit app + Modelos óptimos Lasso Lambda")
+[![Parte 1: Streamlit app + Modelos óptimos Lasso Lambda](/static/I_2024_live-coding-1.png)](https://youtu.be/JjMlG3fEYpk "Parte 1: Streamlit app + Modelos óptimos Lasso Lambda")
 
 ### Parte 1: Streamlit app + Modelos óptimos Lasso Lambda y s.
 
-[![Parte 2: Streamlit app + Modelos óptimos Lasso Lambda](/static/I_2024_live_coding-1.png)](https://youtu.be/LlpE3-Yzti0 "Parte 2: Streamlit app + Modelos óptimos Lasso Lambda")
-
-
-
+[![Parte 2: Streamlit app + Modelos óptimos Lasso Lambda](/static/I_2024_live-coding-1.png)](https://youtu.be/LlpE3-Yzti0 "Parte 2: Streamlit app + Modelos óptimos Lasso Lambda")
 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
