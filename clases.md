@@ -104,6 +104,11 @@ is_contact: false
 
 [![06 Máquinas de Soporte Vectorial](/static/I_24_SVM.jpg)](https://youtu.be/NseeMxd2P1w "06 Máquinas de Soporte Vectorial")
 
+## 07 Árboles de decisión (DT)
+
+- **Fecha**: 10/07/2024
+
+[![07 Árboles de decisión](/static/I_2024_decision-trees.jpg)](https://youtu.be/pYtio9JKyKg "07 Árboles de decisión") 
 
 # Live coding sessions <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 

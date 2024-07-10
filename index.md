@@ -24,29 +24,30 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[05/07/2024]** Mejorada sección de clases con índice para ayudar navegación. Agregados videos de Selección de modelos partes 2 y 3.
-2. **[05/07/2024]** Agregado notebook **Máquinas de soporte vectorial** con video.
-3. **[03/07/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen parcial 1 modificado para el viernes 12 de julio.
-4. **[27/06/2024]** Creada nueva página para [Referencias](https://ml.ucv.ai/referencias).
-5. **[27/06/2024]** Cargados videos de live coding 1: Parte 2 y K-vecinos.
-6. **[26/06/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen parcial 1 será enviado el martes 9 de junio.
-7. **[19/06/2024]** <span style="color:rgb(134, 38, 51)">**[Clases]**</span>La clase del miércoles 26 de Junio será el lunes 24 de Junio a la misma hora.
-8. **[19/06/2024]** Agregado video sobre Regularización (Parte 1) modalidad <span style="color:rgb(134, 38, 51)">**[Live coding]**</span> en sección clases.
-9. **[18/06/2024]** Agregado notebook **Evaluación y selección de modelos** con video.
-10. **[12/06/2024]** Agregada clase del 07/06 **Tradeoff bias-variance** a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
-11. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Clase extra]**</span> Por favor, llenen el siguiente Dooodle para poder realizar clase de recuperación.  [Clase recuperación Doodle](https://doodle.com/meeting/participate/id/dL5OJgge) 
-12. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Discusión]**</span>Demostración de P(Y=K dado X=x) para regresión logística multiclase disponible en [Demostración Regresión Logística](https://ml.ucv.ai/notas/regresion_logistica.pdf "download")
-13. **[11/06/2024]** Agregado notebook de trade variance-bias [04 Variance-bias trade-off](https://ml.ucv.ai/notebooks/I_24_04_Bias_Variance_Tradeoff.ipynb "download")
-14. **[06/06/2024]** Agregado notebook de Regularización [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download") 
-15. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") en sección [Asignaciones](#asignaciones).
-16. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
-17. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
-18. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
-19. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
-20. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
-21. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
-22. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
-23. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
+1. **[10/07/2024]** Agregado notebook y clase de Árboles de decisión.
+2. **[05/07/2024]** Mejorada sección de clases con índice para ayudar navegación. Agregados videos de Selección de modelos partes 2 y 3.
+3. **[05/07/2024]** Agregado notebook **Máquinas de soporte vectorial** con video.
+4. **[03/07/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen parcial 1 modificado para el viernes 12 de julio.
+5. **[27/06/2024]** Creada nueva página para [Referencias](https://ml.ucv.ai/referencias).
+6. **[27/06/2024]** Cargados videos de live coding 1: Parte 2 y K-vecinos.
+7. **[26/06/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen parcial 1 será enviado el martes 9 de junio.
+8. **[19/06/2024]** <span style="color:rgb(134, 38, 51)">**[Clases]**</span>La clase del miércoles 26 de Junio será el lunes 24 de Junio a la misma hora.
+9. **[19/06/2024]** Agregado video sobre Regularización (Parte 1) modalidad <span style="color:rgb(134, 38, 51)">**[Live coding]**</span> en sección clases.
+10. **[18/06/2024]** Agregado notebook **Evaluación y selección de modelos** con video.
+11. **[12/06/2024]** Agregada clase del 07/06 **Tradeoff bias-variance** a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
+12. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Clase extra]**</span> Por favor, llenen el siguiente Dooodle para poder realizar clase de recuperación.  [Clase recuperación Doodle](https://doodle.com/meeting/participate/id/dL5OJgge) 
+13. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Discusión]**</span>Demostración de P(Y=K dado X=x) para regresión logística multiclase disponible en [Demostración Regresión Logística](https://ml.ucv.ai/notas/regresion_logistica.pdf "download")
+14. **[11/06/2024]** Agregado notebook de trade variance-bias [04 Variance-bias trade-off](https://ml.ucv.ai/notebooks/I_24_04_Bias_Variance_Tradeoff.ipynb "download")
+15. **[06/06/2024]** Agregado notebook de Regularización [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download") 
+16. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") en sección [Asignaciones](#asignaciones).
+17. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
+18. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
+19. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
+20. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
+21. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
+22. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
+23. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
+24. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -79,7 +80,8 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|--------
-05/07/2024 | Máquinas de soporte vectorial |[Repositorio del código ](https://ml.ucv.ai/notebooks/I_24_06_Máquinas_de_Soporte_Vectorial.ipynb "download")  | Vista toda la teoría, práctica para miércoles 10/07/2024 | 
+10/07/2024 | Árboles de decisión |[Árboles de decisión](https://ml.ucv.ai/notebooks/I_24_06_Árboles_de_decisión.ipynb "download")  | Explicada pregunta parcial. | Parte práctica Viernes 12/07. 
+05/07/2024 | Máquinas de soporte vectorial |[SVM](https://ml.ucv.ai/notebooks/I_24_06_Máquinas_de_Soporte_Vectorial.ipynb "download")  | Vista toda la teoría, práctica para miércoles 10/07/2024 | 
 03/07/2024 | Evaluación y selección de modelos Clase II | [05 Evaluación y selección de modelos](https://ml.ucv.ai/notebooks/I_24_05_Seleccion_Evaluacion_Pipeline_v2.ipynb) | Este notebook es el mismo que [05 Evaluación y selección de modelos](https://ml.ucv.ai/notebooks/I_24_05_Seleccion_Evaluacion_Pipeline.ipynb) con cálculos de matriz de confusión | Modificamos parcial para el viernes 12/07
 19/06/2024 | Regularización con Lasso |[Repositorio del código ](https://github.com/ucvia/live_coding_regression)  | | Clase del miércoles 26 movida al lunes 24.
 14/06/2024 | Evaluación y selección de modelos | [05 Evaluación y selección de modelos](https://ml.ucv.ai/notebooks/I_24_05_Seleccion_Evaluacion_Pipeline.ipynb) | | 
