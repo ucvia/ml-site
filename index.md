@@ -24,7 +24,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[12/07/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen parcial 1 **publicado**.
+1. **[12/07/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen [Parcial 1](https://github.com/ucvia/ml-postgrado-parcial01) **publicado**.
 2. **[10/07/2024]** Agregado notebook y clase de Árboles de decisión.
 3. **[05/07/2024]** Mejorada sección de clases con índice para ayudar navegación. Agregados videos de Selección de modelos partes 2 y 3.
 4. **[05/07/2024]** Agregado notebook **Máquinas de soporte vectorial** con video.
