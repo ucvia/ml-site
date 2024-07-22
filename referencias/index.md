@@ -30,3 +30,8 @@ by Gilbert Strang   (gilstrang@gmail.com)  ISBN 13: 978-06921963-8-0
 
 - Tibshirani, R. (1996). [Regression Shrinkage and Selection via the Lasso](https://ml.ucv.ai/referencias/papers/lasso.pdf "download"). Journal of the Royal Statistical Society. Series B (Methodological), 58(1), 267–288. http://www.jstor.org/stable/2346178
 - Tibshirani, R. J. (2012). [The Lasso Problem and Uniqueness](https://ml.ucv.ai/referencias/papers/lasso-uniqueness "download"). arXiv [Math.ST]. Disponible también en: http://arxiv.org/abs/1206.0313
+
+## Redes Neuronales
+
+- Wurzberger F, Schwenker F. [Learning in Deep Radial Basis Function Networks](https://ml.ucv.ai/referencias/papers/rbf.pdf "download"). Entropy. 2024; 26(5):368. https://doi.org/10.3390/e26050368
+- Kurt Hornik , Maxwell Stinchcombe, Halbert White (1989). [Multilayer feedforward networks are universal approximators](https://ml.ucv.ai/referencias/papers/hornik-functions.pdf "download"). Neural Networks Volume 2, Issue 5. Disponible en: https://www.sciencedirect.com/science/article/pii/0893608089900208

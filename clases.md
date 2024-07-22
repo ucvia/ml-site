@@ -10,7 +10,8 @@ is_contact: false
 3. [Tradeoff bias variance](#tradeoff-bias-variance--)
 4. [Selección de Modelos y Evaluación](#selección-de-modelos-y-evaluación--)
 5. [Clasificación](#clasificación--)
-6. [Live coding sessions](#live-coding-sessions--)
+6. [Redes Neuronales](#redes-neuronales--)
+7. [Live coding sessions](#live-coding-sessions--)
 
 -----
 
@@ -109,6 +110,16 @@ is_contact: false
 - **Fecha**: 10/07/2024
 
 [![07 Árboles de decisión](/static/I_2024_decision-trees.jpg)](https://youtu.be/pYtio9JKyKg "07 Árboles de decisión") 
+
+# Redes Neuronales <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+
+## 07 Redes Neuronales - Teoría 
+
+### Parte 1 
+
+- **Fecha**: 19/07/2024
+
+[![07 Redes Neuronales](/static/I_2024_nn-1.png.jpg)](https://youtu.be/yGi_zEZzpro "07 Redes Neuronales")
 
 # Live coding sessions <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
