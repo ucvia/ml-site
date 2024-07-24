@@ -119,7 +119,13 @@ is_contact: false
 
 - **Fecha**: 19/07/2024
 
-[![07 Redes Neuronales](/static/I_2024_nn-1.png)](https://youtu.be/yGi_zEZzpro "07 Redes Neuronales")
+[![08 Redes Neuronales](/static/I_2024_nn-1.png)](https://youtu.be/yGi_zEZzpro "08 Redes Neuronales")
+
+### Parte 2: PyTorch I
+
+- **Fecha**: 24/07/2024
+
+[![08 Redes Neuronales](/static/I_2024_nn-2.jpg)](https://youtu.be/ct6nmTcZovo "08 Redes Neuronales")
 
 # Live coding sessions <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
