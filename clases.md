@@ -127,6 +127,12 @@ is_contact: false
 
 [![08 Redes Neuronales](/static/I_2024_nn-2.jpg)](https://youtu.be/ct6nmTcZovo "08 Redes Neuronales")
 
+### Parte 3: PyTorch II
+
+- **Fecha**: 26/07/2024
+
+[![08 Redes Neuronales](/static/I_2024_nn-3.jpg)](https://youtu.be/UALHn2_bbjE "08 Redes Neuronales")
+
 # Live coding sessions <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 ## 01 Regularización
