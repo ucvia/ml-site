@@ -11,7 +11,8 @@ is_contact: false
 4. [Selección de Modelos y Evaluación](#selección-de-modelos-y-evaluación--)
 5. [Clasificación](#clasificación--)
 6. [Redes Neuronales](#redes-neuronales--)
-7. [Live coding sessions](#live-coding-sessions--)
+7. [Agrupamiento](#agrupamiento--)
+8. [Live coding sessions](#live-coding-sessions--)
 
 -----
 
@@ -132,6 +133,30 @@ is_contact: false
 - **Fecha**: 26/07/2024
 
 [![08 Redes Neuronales](/static/I_2024_nn-3.jpg)](https://youtu.be/UALHn2_bbjE "08 Redes Neuronales")
+
+### Parte 4: Procesamiento de imágenes para CNN
+
+- **Fecha**: 15/08/2024
+
+[![08 Redes Neuronales](/static/I_2024_nn-3.jpg)](https://youtu.be/BeZCLGrioso "10 Procesamiento de imágenes para CNN")
+
+# Agrupamiento <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+
+## 09 K-medias
+
+### Parte 1 
+
+- **Fecha**: 07/08/2024
+
+[![09 Agrupamiento - K-medias](/static/kmeans.jpg)](https://youtu.be/_ylTSLmji2M "09 Agrupamiento - K-medias")
+
+## 09 Agrupamiento jerárquico
+
+### Parte 2 
+
+- **Fecha** 09/08/2024
+
+[![09 Agrupamiento jerárquico](/static/kmeans.jpg)](https://youtu.be/FJ_Z3U01NFM "09 Agrupamiento jerárquico")
 
 # Live coding sessions <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
