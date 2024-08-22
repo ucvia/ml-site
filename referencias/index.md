@@ -35,3 +35,6 @@ by Gilbert Strang   (gilstrang@gmail.com)  ISBN 13: 978-06921963-8-0
 
 - Wurzberger F, Schwenker F. [Learning in Deep Radial Basis Function Networks](https://ml.ucv.ai/referencias/papers/rbf.pdf "download"). Entropy. 2024; 26(5):368. https://doi.org/10.3390/e26050368
 - Kurt Hornik , Maxwell Stinchcombe, Halbert White (1989). [Multilayer feedforward networks are universal approximators](https://ml.ucv.ai/referencias/papers/hornik-functions.pdf "download"). Neural Networks Volume 2, Issue 5. Disponible en: https://www.sciencedirect.com/science/article/pii/0893608089900208
+- Kingma, D. P., & Ba, J. (2017). [Adam: A Method for Stochastic Optimization.](https://ml.ucv.ai/referencias/papers/adam-optimizer.pdf "download") arXiv [Cs.LG]. Retrieved from http://arxiv.org/abs/1412.6980
+- Masters, D., & Luschi, C. (2018). [Revisiting Small Batch Training for Deep Neural Networks.](https://ml.ucv.ai/referencias/papers/batch-size.pdf "download") CoRR, abs/1804.07612. Retrieved from http://arxiv.org/abs/1804.07612
+- Ba, J. L., Kiros, J. R., & Hinton, G. E. (2016). [Layer Normalization.](https://ml.ucv.ai/referencias/papers/layer-normalization.pdf "download") arXiv [Stat.ML]. Retrieved from http://arxiv.org/abs/1607.06450

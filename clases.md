@@ -138,7 +138,15 @@ is_contact: false
 
 - **Fecha**: 15/08/2024
 
-[![08 Redes Neuronales](/static/I_2024_nn-3.jpg)](https://youtu.be/BeZCLGrioso "10 Procesamiento de imágenes para CNN")
+[![10 Imágenes para CNN](/static/I_2024_nn-3.jpg)](https://youtu.be/BeZCLGrioso "10 Procesamiento de imágenes para CNN")
+
+### Parte 5: CNN
+
+- **Fecha**: 21/08/2024
+
+[![10 CNN](/static/I_2024_nn-3.jpg)](https://youtu.be/AXVbwPcgiOo "10 CNN")
+
+
 
 # Agrupamiento <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
