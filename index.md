@@ -91,7 +91,8 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|-------- 
-15/08/2024 | Redes Neuronales Convolucionales (CNN) |[10 Procesamiento de imágenes para CNN v2](https://ml.ucv.ai/notebooks/I_24_10_Procesamiento_imagenes_CNN_v2.ipynb "download") [10 Procesamiento de imágenes para CNN v1](https://ml.ucv.ai/notebooks/I_24_10_Procesamiento_imagenes_CNN.ipynb "download")  |  |  Revisar sección INVESTIGAR dentro del notebook.
+21/08/2024 | Redes Neuronales Convolucionales (CNN) | [10 Redes Neuronales Convolucionales (CNN) v2](https://ml.ucv.ai/notebooks/I_24_10_Procesamiento_imagenes_CNN_v2.ipynb "download")  |  |  
+15/08/2024 | Procesamiento de imágenes para CNN  | [10 Procesamiento de imágenes para CNN v1](https://ml.ucv.ai/notebooks/I_24_10_Procesamiento_imagenes_CNN.ipynb "download")  |  |  
 04/08/2024 | Agrupamiento Clustering |[09 Agrupamiento Clustering](https://ml.ucv.ai/notebooks/I_24_09_Agrupamieno_clusteting.ipynb "download")  |  |  Revisar sección INVESTIGAR dentro del notebook.
 24/07/2024 | Redes Neuronales - Teoría |[08 Redes Neuronales v2](https://ml.ucv.ai/notebooks/I_24_08_Redes_Neuronales_v2.ipynb "download")  |  |  Mini tarea agregada
 19/07/2024 | Redes Neuronales - Teoría |[08 Redes Neuronales v1](https://ml.ucv.ai/notebooks/I_24_08_Redes_Neuronales_v1.ipynb "download")  | Discutidas notas de parcial 1 |  
