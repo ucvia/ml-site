@@ -174,9 +174,15 @@ is_contact: false
 
 [![Parte 1: Streamlit app + Modelos óptimos Lasso Lambda](/static/I_2024_live-coding-1.png)](https://youtu.be/JjMlG3fEYpk "Parte 1: Streamlit app + Modelos óptimos Lasso Lambda")
 
-### Parte 1: Streamlit app + Modelos óptimos Lasso Lambda y s.
+### Parte 2: Streamlit app + Modelos óptimos Lasso Lambda y s.
 
 [![Parte 2: Streamlit app + Modelos óptimos Lasso Lambda](/static/I_2024_live-coding-1.png)](https://youtu.be/LlpE3-Yzti0 "Parte 2: Streamlit app + Modelos óptimos Lasso Lambda")
+
+## 10 CNN
+
+### Parte 1: Construyendo una CNN para MNIST
+
+[![10 CNN](/static/I_2024_live-coding-1.png)]([https://youtu.be/JjMlG3fEYpk](https://youtu.be/ky8BxBMdC0Y) "CNN Live coding")
 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
