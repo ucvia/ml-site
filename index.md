@@ -24,7 +24,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1.  **[13/09/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Agregado pdf de referencia del [Proyecto Postgrado](https://ml.ucv.ai/proyecto/Proyecto_Postgrado.pdf).
+1.  **[13/09/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Agregado pdf de referencia del [Proyecto Postgrado](https://ml.ucv.ai/proyecto/Proyecto_Postgrado.pdf) y el video de la [Discusión del proyecto](https://youtu.be/aX4YvO3hV7Y)
 2.  **[26/08/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Agregada Tarea 2: Clasificación y Regresión Logística.
 3.  **[24/08/2024]** Agregado clase Live Coding de CNN a playlist.
 4.  **[23/08/2024]** Agregado notebook Live Coding de CNN.
