@@ -24,44 +24,45 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1.  **[26/08/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Agregada Tarea 2: Clasificación y Regresión Logística.
-2.  **[24/08/2024]** Agregado clase Live Coding de CNN a playlist.
-3.  **[23/08/2024]** Agregado notebook Live Coding de CNN.
-4.  **[22/08/2024]** Actualizado Notebook de CNN con ejemplo de MNIST con FNN. 
-5.  **[22/08/2024]** Agregada clase de CNN en sección [Clases](https://ml.ucv.ai/clases)
-6.  **[22/08/2024]** Agregados papers de interes en sección Redes Neuronales de [Referencias](https://ml.ucv.ai/referencias)
-7.  **[19/08/2024]** Agregadas clase de  [10 Procesamiento de imágenes para CNN](https://ml.ucv.ai/notebooks/I_24_10_Procesamiento_imagenes_CNN.ipynb "download")  y notebook.
-8.  **[12/08/2024]** Agregadas clases de Agrupamiento al canal de YouTube.
-9.  **[04/08/2024]** Agregado notebook de Aprendizaje no supervisado [09 Agrupamiento Clustering](https://ml.ucv.ai/notebooks/I_24_09_Agrupamieno_clusteting.ipynb "download") 
-10. **[31/07/2024]** Publicada clase PyTorch II en sección clases.
-11. **[24/07/2024]** Agregado video y notebook (versión 2) de 08 Redes Neuronales.
-12. **[19/07/2024]** Agregado video y notebook de 08 Redes Neuronales.
-13. **[12/07/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen [Parcial 1](https://github.com/ucvia/ml-postgrado-parcial01) **actualizado**. Solucionados tres pequeños errores de tipeo.
-14. **[12/07/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen [Parcial 1](https://github.com/ucvia/ml-postgrado-parcial01) **publicado**.
-15. **[10/07/2024]** Agregado notebook y clase de Árboles de decisión.
-16. **[05/07/2024]** Mejorada sección de clases con índice para ayudar navegación. Agregados videos de Selección de modelos partes 2 y 3.
-17. **[05/07/2024]** Agregado notebook **Máquinas de soporte vectorial** con video.
-18. **[03/07/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen parcial 1 modificado para el viernes 12 de julio.
-19. **[27/06/2024]** Creada nueva página para [Referencias](https://ml.ucv.ai/referencias).
-20. **[27/06/2024]** Cargados videos de live coding 1: Parte 2 y K-vecinos.
-21. **[26/06/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen parcial 1 será enviado el martes 9 de junio.
-22. **[19/06/2024]** <span style="color:rgb(134, 38, 51)">**[Clases]**</span>La clase del miércoles 26 de Junio será el lunes 24 de Junio a la misma hora.
-23. **[19/06/2024]** Agregado video sobre Regularización (Parte 1) modalidad <span style="color:rgb(134, 38, 51)">**[Live coding]**</span> en sección clases.
-24. **[18/06/2024]** Agregado notebook **Evaluación y selección de modelos** con video.
-25. **[12/06/2024]** Agregada clase del 07/06 **Tradeoff bias-variance** a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
-26. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Clase extra]**</span> Por favor, llenen el siguiente Dooodle para poder realizar clase de recuperación.  [Clase recuperación Doodle](https://doodle.com/meeting/participate/id/dL5OJgge) 
-27. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Discusión]**</span>Demostración de P(Y=K dado X=x) para regresión logística multiclase disponible en [Demostración Regresión Logística](https://ml.ucv.ai/notas/regresion_logistica.pdf "download")
-28. **[11/06/2024]** Agregado notebook de trade variance-bias [04 Variance-bias trade-off](https://ml.ucv.ai/notebooks/I_24_04_Bias_Variance_Tradeoff.ipynb "download")
-29. **[06/06/2024]** Agregado notebook de Regularización [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download") 
-30. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") en sección [Asignaciones](#asignaciones).
-31. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
-32. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
-33. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
-34. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
-35. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
-36. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
-37. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
-38. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
+1.  **[13/09/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Agregado pdf de referencia del [Proyecto Postgrado](https://ml.ucv.ai/proyecto/Proyecto_Postgrado.pdf).
+2.  **[26/08/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Agregada Tarea 2: Clasificación y Regresión Logística.
+3.  **[24/08/2024]** Agregado clase Live Coding de CNN a playlist.
+4.  **[23/08/2024]** Agregado notebook Live Coding de CNN.
+5.  **[22/08/2024]** Actualizado Notebook de CNN con ejemplo de MNIST con FNN. 
+6.  **[22/08/2024]** Agregada clase de CNN en sección [Clases](https://ml.ucv.ai/clases)
+7.  **[22/08/2024]** Agregados papers de interes en sección Redes Neuronales de [Referencias](https://ml.ucv.ai/referencias)
+8.  **[19/08/2024]** Agregadas clase de  [10 Procesamiento de imágenes para CNN](https://ml.ucv.ai/notebooks/I_24_10_Procesamiento_imagenes_CNN.ipynb "download")  y notebook.
+9.  **[12/08/2024]** Agregadas clases de Agrupamiento al canal de YouTube.
+10.  **[04/08/2024]** Agregado notebook de Aprendizaje no supervisado [09 Agrupamiento Clustering](https://ml.ucv.ai/notebooks/I_24_09_Agrupamieno_clusteting.ipynb "download") 
+11. **[31/07/2024]** Publicada clase PyTorch II en sección clases.
+12. **[24/07/2024]** Agregado video y notebook (versión 2) de 08 Redes Neuronales.
+13. **[19/07/2024]** Agregado video y notebook de 08 Redes Neuronales.
+14. **[12/07/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen [Parcial 1](https://github.com/ucvia/ml-postgrado-parcial01) **actualizado**. Solucionados tres pequeños errores de tipeo.
+15. **[12/07/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen [Parcial 1](https://github.com/ucvia/ml-postgrado-parcial01) **publicado**.
+16. **[10/07/2024]** Agregado notebook y clase de Árboles de decisión.
+17. **[05/07/2024]** Mejorada sección de clases con índice para ayudar navegación. Agregados videos de Selección de modelos partes 2 y 3.
+18. **[05/07/2024]** Agregado notebook **Máquinas de soporte vectorial** con video.
+19. **[03/07/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen parcial 1 modificado para el viernes 12 de julio.
+20. **[27/06/2024]** Creada nueva página para [Referencias](https://ml.ucv.ai/referencias).
+21. **[27/06/2024]** Cargados videos de live coding 1: Parte 2 y K-vecinos.
+22. **[26/06/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen parcial 1 será enviado el martes 9 de junio.
+23. **[19/06/2024]** <span style="color:rgb(134, 38, 51)">**[Clases]**</span>La clase del miércoles 26 de Junio será el lunes 24 de Junio a la misma hora.
+24. **[19/06/2024]** Agregado video sobre Regularización (Parte 1) modalidad <span style="color:rgb(134, 38, 51)">**[Live coding]**</span> en sección clases.
+25. **[18/06/2024]** Agregado notebook **Evaluación y selección de modelos** con video.
+26. **[12/06/2024]** Agregada clase del 07/06 **Tradeoff bias-variance** a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
+27. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Clase extra]**</span> Por favor, llenen el siguiente Dooodle para poder realizar clase de recuperación.  [Clase recuperación Doodle](https://doodle.com/meeting/participate/id/dL5OJgge) 
+28. **[12/06/2024]** <span style="color:rgb(134, 38, 51)">**[Discusión]**</span>Demostración de P(Y=K dado X=x) para regresión logística multiclase disponible en [Demostración Regresión Logística](https://ml.ucv.ai/notas/regresion_logistica.pdf "download")
+29. **[11/06/2024]** Agregado notebook de trade variance-bias [04 Variance-bias trade-off](https://ml.ucv.ai/notebooks/I_24_04_Bias_Variance_Tradeoff.ipynb "download")
+30. **[06/06/2024]** Agregado notebook de Regularización [03 Regularización en regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regularizacion.ipynb "download") 
+31. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Publicada [01_Tarea Python](https://ml.ucv.ai/tareas/Tarea1_Postgrado.pdf "download") en sección [Asignaciones](#asignaciones).
+32. **[29/05/2024]** <span style="color:rgb(134, 38, 51)">**[Viernes 31/05 no habrá clases]**</span>
+33. **[29/05/2024]** Agregada clase de regresión logística. [02 Regresión logística](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Logística.ipynb "download") 
+34. **[28/05/2024]** Agregada clase del 24/05 a nuestro canal de YouTube en sección [Clases](https://ml.ucv.ai/clases).
+35. **[28/05/2024]** Agregado notebook [01 Regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Regresión_Lineal.ipynb "download") 
+36. **[17/15/2024]** Agregado notebook [01 Preliminares y regresión lineal](https://ml.ucv.ai/notebooks/I_24_01_Preliminares_Regresión.ipynb "download") actualizado de clases 1, 2 y 3.
+37. **[10/05/2024]** Publicadas clases 2 (preliminares 2 multiplicación de matrices y vectores) y 3 (formulación de regresión lineal). 
+38. **[08/05/2024]** Publicada clase y notebook de preliminares e introducción a ML.
+39. **[04/05/2024]** Actualiziada página de la materia para I-2024. Bienvenidos!
 
 # Evaluaciones <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -97,6 +98,10 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 ### 3. Clasificación
 
 1. La [Tarea 2](https://ml.ucv.ai/tareas/Tarea2_Postgrado.pdf  "download") contiene la sección obligatoria de Clasificación y está disponible en el repositorio [Tarea 2: Clasificación](https://github.com/ucvia/ml-tarea2B-knn-svm) Entrega: 20/08/2024
+
+### 4. Proyecto
+
+El pdf de guía del [Proyecto](https://ml.ucv.ai/proyecto/Proyecto_Postgrado.pdf) 
 
 # Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
