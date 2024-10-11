@@ -24,6 +24,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
+1.  **[11/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Examen [Parcial 2](https://github.com/ucvia/ml-parcial-02-postgrado) **publicado**.
 1.  **[13/09/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Agregado pdf de referencia del [Proyecto Postgrado](https://ml.ucv.ai/proyecto/Proyecto_Postgrado.pdf) y el video de la [Discusión del proyecto](https://youtu.be/aX4YvO3hV7Y)
 2.  **[26/08/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> Agregada Tarea 2: Clasificación y Regresión Logística.
 3.  **[24/08/2024]** Agregado clase Live Coding de CNN a playlist.
@@ -83,7 +84,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 :---------:|:--------:|:-------:|
 **Fecha** | 12/07/2024 | Por definir
 **Temas** |  Tema 1, Tema 2, Tema 3 y Tema 6 (para regresión y clasificación). | Todos
-**Link** | [Parcial 1](https://github.com/ucvia/ml-postgrado-parcial01) | Por definir
+**Link** | [Parcial 1](https://github.com/ucvia/ml-postgrado-parcial01) | [Parcial 2_](https://github.com/ucvia/ml-parcial-02-postgrado)
 
 ## Asignaciones
 
