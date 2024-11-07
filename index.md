@@ -17,22 +17,40 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
 ---
 
-1. [Anuncios](#anuncios--)
-2. [Calendario](#calendario--)
-3. [ML Book](#ml-book--)
-4. [Evaluaciones](#evaluaciones--)
-5. [Código de Honor](#código-de-honor--)
+- [Aprendizaje Automático \[6561\]  - II 2024](#aprendizaje-automático-6561----ii-2024)
+- [Anuncios  ](#anuncios--)
+- [Zoom  ](#zoom--)
+- [Calendario  ](#calendario--)
+- [ML book  ](#ml-book--)
+- [Evaluaciones  ](#evaluaciones--)
+  - [Proyecto](#proyecto)
+  - [Exámenes teóricos](#exámenes-teóricos)
+  - [Asignaciones](#asignaciones)
+- [Código de honor  ](#código-de-honor--)
+  - [Uso de internet](#uso-de-internet)
+  - [Proyectos](#proyectos)
+  - [Uso de LLM](#uso-de-llm)
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
-2. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
-3. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
+1. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
+2. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
+3. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
+4. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
+5. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
+
+# Zoom <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+
+Día | Hora | Link 
+:-----:|-------|:--------:
+Miércoles| 9:00 am Caracas| [Zoom link](https://us06web.zoom.us/j/81947334120?pwd=a7XPSITme9rTHLA9p1Qgb6M9Qj8aGe.1)
+Miércoles| 1:00 pm Caracas| [Zoom link](https://us06web.zoom.us/j/81947334120?pwd=a7XPSITme9rTHLA9p1Qgb6M9Qj8aGe.1) 
 
 # Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|--------|-------- 
+06/11/24 | Repaso Álgebra lineal| [NB: Álgebra lineal](https://ml.ucv.ai/notebooks/00_Álgebra_Lineal.ipynb) |  | **Clases del viernes serán a la 1 pm Caracas**
 31/10/24 | Introducción a ML| [NB: Introducción a ML](https://ml.ucv.ai/notebooks/00_Introducción_a_ML.ipynb) |  | Clase del viernes 01/11/2024 suspendida
 29/10/24 |Introducción: Inteligencia | [Video de Francois Chollet](https://www.youtube.com/watch?v=oD54vJlG-S4) | Lectura interesante Turing: [paper](https://academic.oup.com/mind/article/LIX/236/433/986238) de Alan Turing <br>  |
 29/10/24 | Nota informativa | [Pdf - Nota informativa](https://ml.ucv.ai/notas/AprendizajeAutomatico-6561.pdf) |  |
