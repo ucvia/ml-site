@@ -40,14 +40,14 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 # Zoom <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 Día | Hora | Link 
-:-----:|-------|:--------:
+:-----:|:-------:|:--------:
 Miércoles| 9:00 am Caracas| [Zoom link](https://us06web.zoom.us/j/81947334120?pwd=a7XPSITme9rTHLA9p1Qgb6M9Qj8aGe.1)
 Miércoles| 1:00 pm Caracas| [Zoom link](https://us06web.zoom.us/j/81947334120?pwd=a7XPSITme9rTHLA9p1Qgb6M9Qj8aGe.1) 
 
 # Calendario <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 Fecha | Tema | Material | Nota | Acuerdos 
-:-----:|-------|:--------:|--------|-------- 
+:-----:|-------|:--------:|:--------:|:--------: 
 06/11/24 | Repaso Álgebra lineal| [NB: Álgebra lineal](https://ml.ucv.ai/notebooks/00_Álgebra_Lineal.ipynb) |  | **Clases del viernes serán a la 1 pm Caracas**
 31/10/24 | Introducción a ML| [NB: Introducción a ML](https://ml.ucv.ai/notebooks/00_Introducción_a_ML.ipynb) |  | Clase del viernes 01/11/2024 suspendida
 29/10/24 |Introducción: Inteligencia | [Video de Francois Chollet](https://www.youtube.com/watch?v=oD54vJlG-S4) | Lectura interesante Turing: [paper](https://academic.oup.com/mind/article/LIX/236/433/986238) de Alan Turing <br>  |
@@ -74,7 +74,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
  | | Parcial 1 | Parcial 2|
 :---------:|:--------:|:-------:|
-**Fecha** | 12/07/2024 | Por definir
+**Fecha** | Por definir| Por definir
 **Temas** |  Tema 1, Tema 2, Tema 3 y Tema 6 (para regresión y clasificación). | Todos
 **Link** | Por definir | Por definir
 
