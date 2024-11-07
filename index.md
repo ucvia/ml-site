@@ -8,14 +8,11 @@ layout: default
 
 Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
 
-**Preparadores**: TBD.
-
 ---
-<a href="https://en.wikipedia.org/wiki/George_E._P._Box"> <img class="profile-picture" src="/static/turing.png"> </a>
+<a href="https://en.wikipedia.org/wiki/Alan_Turing"> <img class="profile-picture" src="/static/turing.png"> </a>
 
 > **A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.** <br> Alan Turing
-
----
+--
 
 - [Aprendizaje Automático \[6561\]  - II 2024](#aprendizaje-automático-6561----ii-2024)
 - [Anuncios  ](#anuncios--)
@@ -30,6 +27,7 @@ Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
   - [Uso de internet](#uso-de-internet)
   - [Proyectos](#proyectos)
   - [Uso de LLM](#uso-de-llm)
+---
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
