@@ -7,7 +7,7 @@ is_contact: false
     - [Parte 1: Aprendizaje automático](#parte-1-aprendizaje-automático)
     - [Parte 2: Álgebra Lineal](#parte-2-álgebra-lineal)
 - [Aprendizaje supervisado  ](#aprendizaje-supervisado--)
-  - [Regresión Lineal](#regresión-lineal)
+  - [01 Regresión Lineal](#01-regresión-lineal)
     - [Parte 1: Derivando el problema](#parte-1-derivando-el-problema)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
@@ -28,7 +28,7 @@ is_contact: false
 
 # Aprendizaje supervisado <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-## Regresión Lineal
+## 01 Regresión Lineal
 
 ###  Parte 1: Derivando el problema
 

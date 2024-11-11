@@ -2,19 +2,10 @@
 layout: default
 ---
 
-# Aprendizaje Automático [6561]  - II 2024
-
-**Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
-
-Por favor, si me escriben un email, usen como preámbulo [UCV][6561]
-
----
 <a href="https://en.wikipedia.org/wiki/Alan_Turing"> <img class="profile-picture" src="/static/turing.png"> </a>
 
 > **A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.** <br> Alan Turing
----
 
-- [Aprendizaje Automático \[6561\]  - II 2024](#aprendizaje-automático-6561----ii-2024)
 - [Anuncios  ](#anuncios--)
 - [Zoom  ](#zoom--)
 - [Calendario  ](#calendario--)
@@ -117,4 +108,5 @@ Lo mismo se aplica a las herramientas de IA generativa, como ChatGPT, Bard, Bing
 
 Cualquier duda pueden contactar al grupo docente.
 
+**Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
 
