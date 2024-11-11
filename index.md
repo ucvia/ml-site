@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
+
 <a href="https://en.wikipedia.org/wiki/Alan_Turing"> <img class="profile-picture" src="/static/turing.png"> </a>
 
 > **A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.** <br> Alan Turing
@@ -107,6 +109,3 @@ Para los proyectos, puedes hablar con otros alumnos del curso sobre dudas sobre 
 Lo mismo se aplica a las herramientas de IA generativa, como ChatGPT, Bard, Bing, etc. Estas pueden ser herramientas útiles en tu trabajo. Sin embargo, el uso de dichas herramientas cuando no esté explícitamente permitido será tratado como **plagio** y está **estrictamente** prohibido.
 
 Cualquier duda pueden contactar al grupo docente.
-
-**Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
-
