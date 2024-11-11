@@ -18,7 +18,7 @@ layout: default
   - [Uso de internet](#uso-de-internet)
   - [Proyectos](#proyectos)
   - [Uso de LLM](#uso-de-llm)
----
+
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
