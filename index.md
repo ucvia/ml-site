@@ -21,16 +21,16 @@ layout: default
   - [Proyectos](#proyectos)
   - [Uso de LLM](#uso-de-llm)
 
-
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
-2. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
-3. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
-4. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
-5. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
-6. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
-7. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
+1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
+2. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
+3. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
+4. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
+5. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
+6. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
+7. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
+8. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
 
 # Zoom <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
