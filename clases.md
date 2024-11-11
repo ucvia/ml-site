@@ -9,7 +9,7 @@ is_contact: false
 - [Aprendizaje supervisado  ](#aprendizaje-supervisado--)
   - [Regresión Lineal](#regresión-lineal)
     - [Parte 1: Derivando el problema](#parte-1-derivando-el-problema)
------
+---
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
