@@ -23,6 +23,7 @@ layout: default
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
+   **[11/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://github.com/ucvia/ml-parcial-02-postgrado) **publicada** en [Asignaciones](#asignaciones--).
 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
 2. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
 3. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
@@ -76,11 +77,11 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 ## Asignaciones
 
- | | Tarea 0 | Tarea 1| Tarea 2 |
+ | | Tarea 1 | Tarea 2| Tarea 3|
 :---------:|:--------:|:-------:|:-------:|
-**Fecha** | Por definir | Por definir | Por definir
-**Temas** |  Por definir | Por definir |Por definir 
-**Link** | Por definir | Por definir | Por definir 
+**Fecha** | 15/01/2024 | Por definir | Por definir
+**Temas** |  Python y bases de Regresión | Por definir |Por definir 
+**Link** | [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf)  | Por definir | Por definir 
 
 # Código de honor <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
