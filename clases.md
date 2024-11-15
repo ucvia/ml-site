@@ -9,6 +9,7 @@ is_contact: false
 - [Aprendizaje supervisado  ](#aprendizaje-supervisado--)
   - [01 Regresión Lineal](#01-regresión-lineal)
     - [Parte 1: Derivando el problema](#parte-1-derivando-el-problema)
+    - [Parte 2: Formulación y derivación de ecuaciones normales usando matrices](#parte-2-formulación-y-derivación-de-ecuaciones-normales-usando-matrices)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -34,7 +35,14 @@ is_contact: false
 
 - **Fecha**: 08/11/2024  
 
-[![Parte 1: Derivando el problema](/static/I_2024_regresion_1.png)](https://youtu.be/TXEj7mPhm1s "Parte 1: Derivando el problema")v
+[![Parte 1: Derivando el problema](/static/I_2024_regresion_1.png)](https://youtu.be/TXEj7mPhm1s "Parte 1: Derivando el problema")
+
+###  Parte 2: Formulación y derivación de ecuaciones normales usando matrices
+
+- **Fecha**: 13/11/2024  
+
+[![Parte 2: Formulación y derivación](/static/I_2024_regresion_1.png)](https://youtu.be/VGb_g01HQrs "Parte 2: Formulación y derivación")
+
 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai

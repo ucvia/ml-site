@@ -24,16 +24,17 @@ layout: default
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[15/10/2024]** Publicado notebook de Regresión lineal en [Calendario](#calendario--).
-2. **[15/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://github.com/ucvia/ml-parcial-02-postgrado) **publicada** en [Asignaciones](#asignaciones--).
-3. 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
-4. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
-5. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
-6. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
-7. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
-8. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
-9. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
-10. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
+1. **[15/11/2024]** Agregada clase de **Regresión Lineal parte 2: Formulación** a [Clases](https://ml.ucv.ai/clases) 
+2. **[15/10/2024]** Publicado notebook de Regresión lineal en [Calendario](#calendario--).
+3. **[15/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://github.com/ucvia/ml-parcial-02-postgrado) **publicada** en [Asignaciones](#asignaciones--).
+4. 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
+5. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
+6. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
+7. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
+8. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
+9. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
+10. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
+11. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
 
 # Zoom <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
