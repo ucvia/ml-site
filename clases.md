@@ -10,6 +10,7 @@ is_contact: false
   - [01 Regresión Lineal](#01-regresión-lineal)
     - [Parte 1: Derivando el problema](#parte-1-derivando-el-problema)
     - [Parte 2: Formulación y derivación de ecuaciones normales usando matrices](#parte-2-formulación-y-derivación-de-ecuaciones-normales-usando-matrices)
+    - [Parte 3: Scikit-Learn vs Numpy](#parte-3-scikit-learn-vs-numpy)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -43,6 +44,10 @@ is_contact: false
 
 [![Parte 2: Formulación y derivación](/static/I_2024_regresion_1.png)](https://youtu.be/VGb_g01HQrs "Parte 2: Formulación y derivación")
 
+###  Parte 3: Scikit-Learn vs Numpy
 
+- **Fecha**: 22/11/2024  
+
+[![Parte 3: Scikit-Learn vs Numpy](/static/I_2024_regresion_scikit.png)](https://youtu.be/NpqKJBuSX8U "Parte 3: Scikit-Learn vs Numpy")
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
