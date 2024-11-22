@@ -24,18 +24,19 @@ layout: default
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 3: Scikit-Learn vs Numpy** a [Clases](https://ml.ucv.ai/clases) 
-2. **[15/11/2024]** Agregada clase de **Regresión Lineal parte 2: Formulación** a [Clases](https://ml.ucv.ai/clases) 
-3. **[15/10/2024]** Publicado notebook de Regresión lineal en [Calendario](#calendario--).
-4. **[15/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://github.com/ucvia/ml-parcial-02-postgrado) **publicada** en [Asignaciones](#asignaciones--).
-5. 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
-6. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
-7. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
-8. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
-9. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
-10. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
-11. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
-12. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
+1. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 4: Descenso del gradiente** a [Clases](https://ml.ucv.ai/clases) 
+2. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 3: Scikit-Learn vs Numpy** a [Clases](https://ml.ucv.ai/clases) 
+3. **[15/11/2024]** Agregada clase de **Regresión Lineal parte 2: Formulación** a [Clases](https://ml.ucv.ai/clases) 
+4. **[15/10/2024]** Publicado notebook de Regresión lineal en [Calendario](#calendario--).
+5. **[15/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://github.com/ucvia/ml-parcial-02-postgrado) **publicada** en [Asignaciones](#asignaciones--).
+6. 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
+7. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
+8. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
+9. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
+10. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
+11. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
+12. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
+13. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
 
 # Zoom <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -48,7 +49,9 @@ Miércoles| 1:00 pm Caracas| [Zoom link](https://us06web.zoom.us/j/81947334120?p
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|:--------:|:--------: 
-15/11/24 | 01 Regresión Lineal: Formulación| [Notebook 01: RL ](https://ml.ucv.ai/notebooks/01_Regresión_Lineal_Formulación.ipynb) |  | **Revisar  tarea al final**
+22/11/24 | 01 Regresión Lineal: Descenso del gradiente| [Notebook 01: RL 4](https://ml.ucv.ai/notebooks/01_Regresión_Lineal_Gradiente.ipynb) | Tarea de RL 2 resuelta la mitad | 
+20/11/24 | 01 Regresión Lineal: Scikit-Learn vs Numpy| [Notebook 01: RL 3](https://ml.ucv.ai/notebooks/01_Regresión_Lineal_Scikit_Learn.ipynb) |  | 
+15/11/24 | 01 Regresión Lineal: Formulación| [Notebook 01: RL 2](https://ml.ucv.ai/notebooks/01_Regresión_Lineal_Formulación.ipynb) |  | **Revisar  tarea al final**
 08/11/24 | 01 Regresión Lineal: Derivación| [Notebook 01: RL 1](https://ml.ucv.ai/notebooks/01_Regresión_Lineal_Derivación.ipynb) | El notebook contiene solamente Definción, Objetivo y función de pérdida | Montar todos los notebooks como vistos en clase 
 06/11/24 | 00: Repaso Álgebra lineal| [Notebook 00: AL](https://ml.ucv.ai/notebooks/00_Álgebra_Lineal.ipynb) |  | **Clases del viernes serán a la 1 pm Caracas**
 31/10/24 | 00: Introducción a ML| [Notebook 00: ML](https://ml.ucv.ai/notebooks/00_Introducción_a_ML.ipynb) |  | Clase del viernes 01/11/2024 suspendida
