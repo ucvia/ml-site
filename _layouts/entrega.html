@@ -105,7 +105,7 @@
         {% endif %}
                 {{ content }}
 
-                <form action="https://getform.io/f/b152a0e4-b211-46e2-8d90-ad310188552a" method="POST" enctype="multipart/form-data" target="_blank">
+                <form action="https://services.ucv.ai/upload" method="POST" enctype="multipart/form-data" target="_blank">
                         
                         <div class="form-group row">
                             <label class="col-sm-3 col-form-label">Nombre completo</label>
@@ -133,6 +133,24 @@
                           </div>
 
                           <br>
+
+                          <div class="form-group row">
+                            <label class="col-sm-3 col-form-label">Entrega</label>
+                            <div class="col-sm-9">
+                                <select class="form-control" name="tipo_entrega" required>
+                                    <option value="" disabled selected>Selecciona en la lista...</option>
+                                    <option value="tarea_1">Tarea 1: Python</option>
+                                    <option value="tarea_2">Tarea 2: Supervisado</option>
+                                    <option value="tarea_3">Tarea 3: No Supervisado</option>
+                                    <option value="parcial_1">Parcial 1</option>
+                                    <option value="parcial_2">Parcial 2</option>
+                                    <option value="paricial_3">Proyecto</option>
+                                    <!-- Add your options here -->
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <br>
                      
                         <div class="form-group row">
                             <label class="col-sm-3 col-form-label" id="ControlTextarea1">Nota</label>
