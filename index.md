@@ -24,7 +24,7 @@ layout: default
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[26/11/2024]** Agregado [Template tarea 0](https://ml.ucv.ai/notebook/00_Template_Tarea.ipynb)
+1. **[26/11/2024]** Agregado [Template tarea 0](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb)
 2. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 4: Descenso del gradiente** a [Clases](https://ml.ucv.ai/clases) 
 3. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 3: Scikit-Learn vs Numpy** a [Clases](https://ml.ucv.ai/clases) 
 4. **[15/11/2024]** Agregada clase de **Regresión Lineal parte 2: Formulación** a [Clases](https://ml.ucv.ai/clases) 
@@ -91,7 +91,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 **Fecha** | 02/12/2024 | Por definir | Por definir
 **Temas** |  Python y bases de Regresión | Por definir |Por definir 
 **Link** | [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf)  | Por definir | Por definir 
-**Material** |[Template tarea 1](https://ml.ucv.ai/notebook/00_Template_Tarea.ipynb) | | 
+**Material** |[Template tarea 1](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb) | | 
 **Nota** |  |  |  |
 
 # Código de honor <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
