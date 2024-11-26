@@ -24,19 +24,20 @@ layout: default
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
 
-1. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 4: Descenso del gradiente** a [Clases](https://ml.ucv.ai/clases) 
-2. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 3: Scikit-Learn vs Numpy** a [Clases](https://ml.ucv.ai/clases) 
-3. **[15/11/2024]** Agregada clase de **Regresión Lineal parte 2: Formulación** a [Clases](https://ml.ucv.ai/clases) 
-4. **[15/10/2024]** Publicado notebook de Regresión lineal en [Calendario](#calendario--).
-5. **[15/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://github.com/ucvia/ml-parcial-02-postgrado) **publicada** en [Asignaciones](#asignaciones--).
-6. 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
-7. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
-8. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
-9. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
-10. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
-11. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
-12. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
-13. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
+1. **[26/11/2024]** Agregado [Template tarea 0](https://ml.ucv.ai/notebook/00_Template_Tarea.ipynb)
+2. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 4: Descenso del gradiente** a [Clases](https://ml.ucv.ai/clases) 
+3. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 3: Scikit-Learn vs Numpy** a [Clases](https://ml.ucv.ai/clases) 
+4. **[15/11/2024]** Agregada clase de **Regresión Lineal parte 2: Formulación** a [Clases](https://ml.ucv.ai/clases) 
+5. **[15/10/2024]** Publicado notebook de Regresión lineal en [Calendario](#calendario--).
+6. **[15/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://github.com/ucvia/ml-parcial-02-postgrado) **publicada** en [Asignaciones](#asignaciones--).
+7. 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
+8. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
+9. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
+10. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
+11. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
+12. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
+13. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
+14. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
 
 # Zoom <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -87,9 +88,11 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
  | | Tarea 1 | Tarea 2| Tarea 3|
 :---------:|:--------:|:-------:|:-------:|
-**Fecha** | 15/01/2024 | Por definir | Por definir
+**Fecha** | 02/12/2024 | Por definir | Por definir
 **Temas** |  Python y bases de Regresión | Por definir |Por definir 
 **Link** | [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf)  | Por definir | Por definir 
+**Material** |[Template tarea 1](https://ml.ucv.ai/notebook/00_Template_Tarea.ipynb) | | 
+**Nota** |  |  |  |
 
 # Código de honor <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
