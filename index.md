@@ -50,6 +50,7 @@ Miércoles| 1:00 pm Caracas| [Zoom link](https://us06web.zoom.us/j/81947334120?p
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|:--------:|:--------: 
+27/11/24 | 02 Regresión Logística| [Notebook 02: Log 01](https://ml.ucv.ai/notebooks/02_Regresión_Logística.ipynb) | Deducción de función de pérdida L | 
 22/11/24 | 01 Regresión Lineal: Descenso del gradiente| [Notebook 01: RL 4](https://ml.ucv.ai/notebooks/01_Regresión_Lineal_Gradiente.ipynb) | Tarea de RL 2 resuelta la mitad | 
 20/11/24 | 01 Regresión Lineal: Scikit-Learn vs Numpy| [Notebook 01: RL 3](https://ml.ucv.ai/notebooks/01_Regresión_Lineal_Scikit_Learn.ipynb) |  | 
 15/11/24 | 01 Regresión Lineal: Formulación| [Notebook 01: RL 2](https://ml.ucv.ai/notebooks/01_Regresión_Lineal_Formulación.ipynb) |  | **Revisar  tarea al final**

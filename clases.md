@@ -12,6 +12,8 @@ is_contact: false
     - [Parte 2: Formulación y derivación de ecuaciones normales usando matrices](#parte-2-formulación-y-derivación-de-ecuaciones-normales-usando-matrices)
     - [Parte 3: Scikit-Learn vs Numpy](#parte-3-scikit-learn-vs-numpy)
     - [Parte 4: Descenso del gradiente](#parte-4-descenso-del-gradiente)
+  - [02 Regresión Logística](#02-regresión-logística)
+    - [Parte 1: Deducción de la función de pérdida L(Beta)](#parte-1-deducción-de-la-función-de-pérdida-lbeta)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -56,6 +58,12 @@ is_contact: false
 - **Fecha**: 22/11/2024  
 
 [![Parte 4:  Descenso del gradiente](/static/I_2024_regresion_gradient.png)](https://youtu.be/i6JJIwC_p6o "Parte 4: Descenso del gradiente")
+
+## 02 Regresión Logística
+
+### Parte 1: Deducción de la función de pérdida L(Beta)
+
+[![Parte 1: Deducción de la función de pérdida L](/static/I_2024_logistic_2.png)](https://youtu.be/KEJ-l4YB8Lo "Parte 1: Deducción de la función de pérdida L")
 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
