@@ -14,6 +14,7 @@ is_contact: false
     - [Parte 4: Descenso del gradiente](#parte-4-descenso-del-gradiente)
   - [02 Regresión Logística](#02-regresión-logística)
     - [Parte 1: Deducción de la función de pérdida L(Beta)](#parte-1-deducción-de-la-función-de-pérdida-lbeta)
+    - [Parte 2: Uso de Scikit-Learn con Regresión logística](#parte-2-uso-de-scikit-learn-con-regresión-logística)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -64,6 +65,10 @@ is_contact: false
 ### Parte 1: Deducción de la función de pérdida L(Beta)
 
 [![Parte 1: Deducción de la función de pérdida L](/static/I_2024_logistic_2.png)](https://youtu.be/KEJ-l4YB8Lo "Parte 1: Deducción de la función de pérdida L")
+
+### Parte 2: Uso de Scikit-Learn con Regresión logística
+
+[![Parte 2: Uso de Scikit-Learn con Regresión logística](/static/I_2024_logistic_2.png)](https://youtu.be/byFIDDZ4lvQ "Parte 2: Uso de Scikit-Learn con Regresión logística")
 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
