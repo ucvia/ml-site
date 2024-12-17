@@ -15,6 +15,9 @@ is_contact: false
   - [02 Regresión Logística](#02-regresión-logística)
     - [Parte 1: Deducción de la función de pérdida L(Beta)](#parte-1-deducción-de-la-función-de-pérdida-lbeta)
     - [Parte 2: Uso de Scikit-Learn con Regresión logística](#parte-2-uso-de-scikit-learn-con-regresión-logística)
+  - [03 Regularización](#03-regularización)
+    - [Parte 1: Conceptos](#parte-1-conceptos)
+    - [Parte 2: Camino de regularización](#parte-2-camino-de-regularización)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -69,6 +72,16 @@ is_contact: false
 ### Parte 2: Uso de Scikit-Learn con Regresión logística
 
 [![Parte 2: Uso de Scikit-Learn con Regresión logística](/static/I_2024_logistic_2.png)](https://youtu.be/byFIDDZ4lvQ "Parte 2: Uso de Scikit-Learn con Regresión logística")
+
+## 03 Regularización
+
+### Parte 1: Conceptos
+
+[![Parte 1: Conceptos](/static/I_2024_regularizacion_1_thumbnail.png)](https://youtu.be/3LzcJ-A3HXY "Parte 1: Conceptos")
+
+### Parte 2: Camino de regularización
+
+[![Parte 2: Camino de regularización](/static/regularización_2.jpg)](https://youtu.be/nRDGDyPTTFY "Parte 2: Camino de regularización")
 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
