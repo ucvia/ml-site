@@ -18,6 +18,7 @@ is_contact: false
   - [03 Regularización](#03-regularización)
     - [Parte 1: Conceptos](#parte-1-conceptos)
     - [Parte 2: Camino de regularización](#parte-2-camino-de-regularización)
+  - [04 Trade-off bias variance](#04-trade-off-bias-variance)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -83,5 +84,8 @@ is_contact: false
 
 [![Parte 2: Camino de regularización](/static/regularización_2.jpg)](https://youtu.be/nRDGDyPTTFY "Parte 2: Camino de regularización")
 
+## 04 Trade-off bias variance
+
+[![Trade-off bias variance](/static/I_2024_trade_vb.png)](https://youtu.be/_kLzgUn4Eb0 "Trade-off bias variance")
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
