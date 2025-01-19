@@ -19,6 +19,7 @@ is_contact: false
     - [Parte 1: Conceptos](#parte-1-conceptos)
     - [Parte 2: Camino de regularización](#parte-2-camino-de-regularización)
   - [04 Trade-off bias variance](#04-trade-off-bias-variance)
+  - [05 Evaluación y selección de modelos](#05-evaluación-y-selección-de-modelos)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -87,5 +88,9 @@ is_contact: false
 ## 04 Trade-off bias variance
 
 [![Trade-off bias variance](/static/I_2024_trade_vb.png)](https://youtu.be/_kLzgUn4Eb0 "Trade-off bias variance")
+
+## 05 Evaluación y selección de modelos
+
+[![05 Selección de Modelos y Evaluación](/static/model-selection-2.jpg)](https://www.youtube.com/watch?v=ym8NUSGReuE "05 Seleccion de Modelos y Evaluación")
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
