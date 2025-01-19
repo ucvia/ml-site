@@ -23,24 +23,25 @@ layout: default
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[16/01/2025]** Agregado contenido de **Trade-off bias variance** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
-2. **[17/12/2024]** Agregado contenido de **Regularización** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
-3. **[26/11/2024]** Agregadas clases de **Regresión Logística partes 1 y 2** a [Clases](https://ml.ucv.ai/clases) 
-4. **[29/11/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Extendida** fecha de entrega de [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf) para el viernes 6 de Diciembre a las 11:59 p.m Caracas (GMT-4).  
-5. **[26/11/2024]** Agregado [Template tarea 1](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb)
-6. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 4: Descenso del gradiente** a [Clases](https://ml.ucv.ai/clases) 
-7. **[22/11/2024]** Agregada clase de **Regresión Lineal parte 3: Scikit-Learn vs Numpy** a [Clases](https://ml.ucv.ai/clases) 
-8. **[15/11/2024]** Agregada clase de **Regresión Lineal parte 2: Formulación** a [Clases](https://ml.ucv.ai/clases) 
-9. **[15/10/2024]** Publicado notebook de Regresión lineal en [Calendario](#calendario--).
-10. **[15/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf) **publicada** en [Asignaciones](#asignaciones--).
-11. 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
-12. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
-13. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
-14. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
-15. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
-16. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
-17. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
-18. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
+1. **[18/01/2025]** Agregado contenido de **Tema 05: Evaluación y selección de modelos** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
+2. **[16/01/2025]** Agregado contenido de **Tema 04:  Trade-off bias variance** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
+3. **[17/12/2024]** Agregado contenido de **Tema 03:  Regularización** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
+4. **[26/11/2024]** Agregadas clases de **Tema 02: Regresión Logística partes 1 y 2** a [Clases](https://ml.ucv.ai/clases) 
+5. **[29/11/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Extendida** fecha de entrega de [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf) para el viernes 6 de Diciembre a las 11:59 p.m Caracas (GMT-4).  
+6. **[26/11/2024]** Agregado [Template tarea 1](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb)
+7. **[22/11/2024]** Agregada clase de **Tema 01: Regresión Lineal parte 4: Descenso del gradiente** a [Clases](https://ml.ucv.ai/clases) 
+8. **[22/11/2024]** Agregada clase de **Tema 01: Regresión Lineal parte 3: Scikit-Learn vs Numpy** a [Clases](https://ml.ucv.ai/clases) 
+9. **[15/11/2024]** Agregada clase de **Tema 01: Regresión Lineal parte 2: Formulación** a [Clases](https://ml.ucv.ai/clases) 
+10. **[15/10/2024]** Publicado notebook de Regresión lineal en [Calendario](#calendario--).
+11. **[15/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf) **publicada** en [Asignaciones](#asignaciones--).
+12. 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
+13. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
+14. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
+15. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
+16. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
+17. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
+18. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
+19. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
 
 # Zoom <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -53,6 +54,7 @@ Miércoles| 1:00 pm Caracas| [Zoom link](https://us06web.zoom.us/j/81947334120?p
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|:--------:|:--------:
+8/01/25| 05 Evaluación y selección de modelos | [Notebook 05: Evaluación y selección de modelos](https://ml.ucv.ai/notebooks/05_Seleccion_Evaluacion_Pipeline_v1.ipynb) | Versión 1 SIN curvas de validación |
 16/01/25| 04 Trade-off bias variance | [Notebook 04: Trade-off bias variance](https://ml.ucv.ai/notebooks/04_Bias_Variance_Tradeoff.ipynb) | |
 17/12/24 | 03 Regularización: Lasso y Ridge | [Notebook 03: Regularización](https://ml.ucv.ai/notebooks/03_Regularizacion.ipynb) | |
 27/11/24 | 02 Regresión Logística| [Notebook 02: Log 01](https://ml.ucv.ai/notebooks/02_Regresión_Logística.ipynb) | Deducción de función de pérdida L | Calcular gradiente de L 
