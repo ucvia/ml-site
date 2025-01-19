@@ -91,6 +91,6 @@ is_contact: false
 
 ## 05 Evaluación y selección de modelos
 
-[![05 Selección de Modelos y Evaluación](/static/model-selection-2.jpg)](https://www.youtube.com/watch?v=ym8NUSGReuE "05 Seleccion de Modelos y Evaluación")
+[![05 Selección de Modelos y Evaluación](/static/I_2024_model-selection.png)](https://www.youtube.com/watch?v=ym8NUSGReuE "05 Seleccion de Modelos y Evaluación")
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
