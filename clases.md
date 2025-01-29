@@ -20,6 +20,9 @@ is_contact: false
     - [Parte 2: Camino de regularización](#parte-2-camino-de-regularización)
   - [04 Trade-off bias variance](#04-trade-off-bias-variance)
   - [05 Evaluación y selección de modelos](#05-evaluación-y-selección-de-modelos)
+    - [Parte 1: Pipeline + Matriz de confusión](#parte-1-pipeline--matriz-de-confusión)
+    - [Parte 2: Métricas de Clasificación y Curvas ROC](#parte-2-métricas-de-clasificación-y-curvas-roc)
+  - [06 Máquinas de Soporte Vectorial](#06-máquinas-de-soporte-vectorial)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -91,6 +94,17 @@ is_contact: false
 
 ## 05 Evaluación y selección de modelos
 
-[![05 Selección de Modelos y Evaluación](/static/I_2024_model-selection.png)](https://www.youtube.com/watch?v=ym8NUSGReuE "05 Seleccion de Modelos y Evaluación")
+### Parte 1: Pipeline + Matriz de confusión
+
+[![05 Selección de Modelos y Evaluación](/static/model-selection-2.jpg)](https://www.youtube.com/watch?v=ym8NUSGReuE "05 Seleccion de Modelos y Evaluación")
+
+### Parte 2: Métricas de Clasificación y Curvas ROC
+
+[![05 Selección de Modelos y Evaluación](/static/I_2024_model-selection.png)](https://youtu.be/mahLy_7WrI0 "05 Seleccion de Modelos y Evaluación")
+
+## 06 Máquinas de Soporte Vectorial
+
+[![06 Máquinas de Soporte Vectorial](/static/I_24_SVM.jpg)](https://www.youtube.com/watch?v=eLpHk-nGIvM "06 Máquinas de Soporte Vectorial")
+
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
