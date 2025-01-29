@@ -85,7 +85,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 | | Todos los Grupos | 
 :---------:|:--------:
-**Fecha** | Por definir
+**Fecha** | 19/03/25
 **Asignados** | Por definir 
 
 ## Exámenes teóricos
