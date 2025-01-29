@@ -92,19 +92,19 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
  | | Parcial 1 | Parcial 2|
 :---------:|:--------:|:-------:|
-**Fecha** | Por definir| Por definir
+**Fecha** | 21/02/2025 | 14/03/2025
 **Temas** |  Tema 1, Tema 2, Tema 3 y Tema 6 (para regresión y clasificación). | Todos
 **Link** | Por definir | Por definir
 
 ## Asignaciones
 
- | | Tarea 1 | Tarea 2| Tarea 3|
-:---------:|:--------:|:-------:|:-------:|
-**Fecha** | 06/12/2024 | 14/02/2025 | Por definir
-**Temas** |  Python y bases de Regresión | Regresión Logística, SVM y K-NN |Por definir 
-**Link** | [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf)  | [Tarea 2](https://ml.ucv.ai/tareas/Tarea2_II_2024.pdf) | Por definir 
-**Material** |[Template tarea 1](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb) | [Repositorio tarea](https://github.com/ucvia/ml-tarea2B-knn-svm) | 
-**Nota** |  |  |  |
+ | | Tarea 1 | Tarea 2| 
+:---------:|:--------:|:-------:|
+**Fecha** | 06/12/2024 | 14/02/2025 
+**Temas** |  Python y bases de Regresión | Regresión Logística, SVM y K-NN 
+**Link** | [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf)  | [Tarea 2](https://ml.ucv.ai/tareas/Tarea2_II_2024.pdf) 
+**Material** |[Template tarea 1](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb) | [Repositorio tarea](https://github.com/ucvia/ml-tarea2B-knn-svm)  
+**Nota** |  |  |  
 
 # Código de honor <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
