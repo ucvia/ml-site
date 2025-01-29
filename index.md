@@ -103,7 +103,7 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 **Fecha** | 06/12/2024 | Por definir | Por definir
 **Temas** |  Python y bases de Regresión | Por definir |Por definir 
 **Link** | [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf)  | [Tarea 2](https://ml.ucv.ai/tareas/Tarea2_II_2024.pdf) | Por definir 
-**Material** |[Template tarea 1](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb) | | 
+**Material** |[Template tarea 1](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb) | [Repositorio tarea](https://github.com/ucvia/ml-tarea2B-knn-svm) | 
 **Nota** |  |  |  |
 
 # Código de honor <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
