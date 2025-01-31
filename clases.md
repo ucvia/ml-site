@@ -23,6 +23,8 @@ is_contact: false
     - [Parte 1: Pipeline + Matriz de confusión](#parte-1-pipeline--matriz-de-confusión)
     - [Parte 2: Métricas de Clasificación y Curvas ROC](#parte-2-métricas-de-clasificación-y-curvas-roc)
   - [06 Máquinas de Soporte Vectorial](#06-máquinas-de-soporte-vectorial)
+    - [Parte 1: SVM Hard Margin](#parte-1-svm-hard-margin)
+    - [Parte 2: SVM Soft Margin](#parte-2-svm-soft-margin)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -104,7 +106,13 @@ is_contact: false
 
 ## 06 Máquinas de Soporte Vectorial
 
+### Parte 1: SVM Hard Margin
+
 [![06 Máquinas de Soporte Vectorial](/static/I_24_SVM.jpg)](https://www.youtube.com/watch?v=eLpHk-nGIvM "06 Máquinas de Soporte Vectorial")
+
+### Parte 2: SVM Soft Margin
+
+[![06 Máquinas de Soporte Vectorial](/static/I_24_SVM.jpg)](https://youtu.be/eqZB1ZH36ys "06 Máquinas de Soporte Vectorial")
 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
