@@ -25,6 +25,8 @@ is_contact: false
   - [06 Máquinas de Soporte Vectorial](#06-máquinas-de-soporte-vectorial)
     - [Parte 1: SVM Hard Margin](#parte-1-svm-hard-margin)
     - [Parte 2: SVM Soft Margin](#parte-2-svm-soft-margin)
+  - [07 Arboles de decisión](#07-arboles-de-decisión)
+    - [Parte 1](#parte-1)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -114,5 +116,10 @@ is_contact: false
 
 [![06 Máquinas de Soporte Vectorial](/static/I_24_SVM.jpg)](https://youtu.be/eqZB1ZH36ys "06 Máquinas de Soporte Vectorial")
 
+## 07 Arboles de decisión
+
+### Parte 1
+
+[![07 Árboles de decisión](/static/I_2024_decision-trees.jpg)](https://youtu.be/oRlPGXDhl5A "07 Árboles de decisión") 
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
