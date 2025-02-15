@@ -27,6 +27,18 @@ is_contact: false
     - [Parte 2: SVM Soft Margin](#parte-2-svm-soft-margin)
   - [07 Arboles de decisión](#07-arboles-de-decisión)
     - [Parte 1](#parte-1)
+    - [Parte 2](#parte-2)
+  - [09 Redes Neuronales](#09-redes-neuronales)
+    - [Parte 1: Introducción](#parte-1-introducción)
+    - [Parte 2: PyTorch](#parte-2-pytorch)
+    - [Parte 3: PDI y CNN](#parte-3-pdi-y-cnn)
+    - [Parte 4: Segmentación de imágenes con AutoEncoders](#parte-4-segmentación-de-imágenes-con-autoencoders)
+    - [Parte 5: Transfer Learning y Fine Tuning](#parte-5-transfer-learning-y-fine-tuning)
+- [Aprendizaje No Supervisado  ](#aprendizaje-no-supervisado--)
+  - [08 Agrupamiento](#08-agrupamiento)
+    - [Parte 1: K-medias](#parte-1-k-medias)
+    - [Parte 2: Agrupamiento Jerárquico](#parte-2-agrupamiento-jerárquico)
+    - [Parte 3: PCA](#parte-3-pca)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -120,6 +132,48 @@ is_contact: false
 
 ### Parte 1
 
-[![07 Árboles de decisión](/static/I_2024_decision-trees.jpg)](https://youtu.be/oRlPGXDhl5A "07 Árboles de decisión") 
+[![07 Árboles de decisión](/static/I_2024_decision-trees.jpg)](https://youtu.be/JxmhEg5lAsU "07 Árboles de decisión") 
+
+### Parte 2
+
+[![07 Árboles de decisión](/static/I_2024_decision-trees.jpg)](https://youtu.be/LziBeP2hHbs "07 Árboles de decisión")
+
+## 09 Redes Neuronales
+
+### Parte 1: Introducción
+
+TBD
+
+### Parte 2: PyTorch
+
+TBD
+
+### Parte 3: PDI y CNN
+
+TBD
+
+### Parte 4: Segmentación de imágenes con AutoEncoders
+
+TBD
+
+### Parte 5: Transfer Learning y Fine Tuning
+
+TBD
+
+# Aprendizaje No Supervisado <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
+
+## 08 Agrupamiento
+
+### Parte 1: K-medias
+
+[![08 Agrupamiento: k-medias](/static/video2.jpeg)](https://youtu.be/Z53yY-FR_Ak "08 Agrupamiento: k-medias") 
+
+### Parte 2: Agrupamiento Jerárquico
+
+[![08 Agrupamiento: jerarquico](/static/video2.jpeg)](https://youtu.be/L-_xgsS7UwQ "08 Agrupamiento: jerarquico")
+
+### Parte 3: PCA
+
+TBD
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
