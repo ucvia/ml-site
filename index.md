@@ -23,7 +23,7 @@ layout: default
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1.  **[28/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Parcial 1](https://github.com/ucvia/ml-pregrado-parcial-01-2024) **publicado** en [Asignaciones](#examenes-teoricos--).
+1.  **[28/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Parcial 1](https://github.com/ucvia/ml-pregrado-parcial-01-2024) **publicado** en [Exámenes teóricos](#examenes-teoricos--).
 2. **[15/02/2024]** Agregado contenido de **Tema 08: Aprendizaje No Supervisado** temas **K-medias** y **Agrupamiento Jerárquico** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--)
 3. **[09/02/2024]** Agregado video de **Tema 07: Árboles de Decisión** Parte 2 a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
 4. **[28/01/2024]** Agregado contenido de **Tema 07: Árboles de Decisión** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
