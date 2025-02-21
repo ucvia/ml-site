@@ -23,7 +23,7 @@ layout: default
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1.  **[28/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Parcial 1](https://github.com/ucvia/ml-pregrado-parcial-01-2024) **publicado** en [Exámenes teóricos](#examenes-teoricos--).
+1.  **[28/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Parcial 1](https://github.com/ucvia/ml-pregrado-parcial-01-2024) **publicado** en [Exámenes teóricos](#exámenes-teóricos).
 2. **[15/02/2024]** Agregado contenido de **Tema 08: Aprendizaje No Supervisado** temas **K-medias** y **Agrupamiento Jerárquico** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--)
 3. **[09/02/2024]** Agregado video de **Tema 07: Árboles de Decisión** Parte 2 a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
 4. **[28/01/2024]** Agregado contenido de **Tema 07: Árboles de Decisión** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
@@ -31,7 +31,7 @@ layout: default
 6. **[31/01/2024]** Agregada Clase 2 de **Tema 06: Máquinas de Soporte Vectorial** a [Clases](https://ml.ucv.ai/clases) 
 7. **[28/01/2024]** Agregado contenido de **Tema 06: Máquinas de Soporte Vectorial** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
 8. **[28/01/2024]** Agregado contenido de **Tema 05: Evaluación y selección de modelos (Parte 2)** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
-9. **[28/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 2](https://ml.ucv.ai/tareas/Tarea2_II_2024.pdf) **publicada** en [Asignaciones](#asignaciones--).
+9. **[28/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 2](https://ml.ucv.ai/tareas/Tarea2_II_2024.pdf) **publicada** en [Asignaciones](#asignaciones).
 10. **[18/01/2025]** Agregado contenido de **Tema 05: Evaluación y selección de modelos** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
 11. **[16/01/2025]** Agregado contenido de **Tema 04:  Trade-off bias variance** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
 12. **[17/12/2024]** Agregado contenido de **Tema 03:  Regularización** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
