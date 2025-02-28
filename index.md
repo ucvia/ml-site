@@ -65,7 +65,8 @@ Miércoles| 1:00 pm Caracas| [Zoom link](https://us06web.zoom.us/j/81947334120?p
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|:--------:|:--------:
-26/02/25| 09 Redes Neuronales| [Notebook 09: Redes Neuronales](https://ml.ucv.ai/notebooks/09_Redes_Neuronales.ipynb) |  | 
+28/02/25| 09 Redes Neuronales| [Notebook 09: Redes Neuronales v2](https://ml.ucv.ai/notebooks/09_Redes_Neuronales-v2.ipynb) | Modificado luego de clase del miércoles 26 | 
+26/02/25| 09 Redes Neuronales| [Notebook 09: Redes Neuronales v1](https://ml.ucv.ai/notebooks/09_Redes_Neuronales.ipynb) |  | 
 15/02/25| 08 Agrupamiento| [Notebook 08: Agrupamiento](https://ml.ucv.ai/notebooks/08_Agrupamiento.ipynb) |  | Entrega notas Lunes 17/02 y Martes 18/02
 31/01/25| 07 Árboles de Decisión | [Notebook 07: Árboles de Decisión](https://ml.ucv.ai/notebooks/07_Árboles_de_decisión.ipynb) |  |
 28/01/25| 06 Máquinas de Soporte Vectorial | [Notebook 06 Máquinas de Soporte Vectorial](https://ml.ucv.ai/notebooks/06_Máquinas_de_Soporte_Vectorial.ipynb) | | Evaluaremos hasta el punto 5 SVM - soft margin 
