@@ -31,6 +31,7 @@ is_contact: false
   - [09 Redes Neuronales](#09-redes-neuronales)
     - [Parte 1: Introducción](#parte-1-introducción)
     - [Parte 2: PyTorch](#parte-2-pytorch)
+      - [Parte A](#parte-a)
     - [Parte 3: PDI y CNN](#parte-3-pdi-y-cnn)
     - [Parte 4: Segmentación de imágenes con AutoEncoders](#parte-4-segmentación-de-imágenes-con-autoencoders)
     - [Parte 5: Transfer Learning y Fine Tuning](#parte-5-transfer-learning-y-fine-tuning)
@@ -142,11 +143,13 @@ is_contact: false
 
 ### Parte 1: Introducción
 
-TBD
+[![09 Redes Neuronales](/static/I_2024_nn-1.png)](https://youtu.be/zj41KtHph-Ms "09 Redes Neuronales")
 
 ### Parte 2: PyTorch
 
-TBD
+#### Parte A
+
+[![09 Redes Neuronales: PyTorch](/static/I_2024_nn-2.png)]( https://youtu.be/_kZ8U5xzi1U "09 Redes Neuronales: PyTorch")
 
 ### Parte 3: PDI y CNN
 
