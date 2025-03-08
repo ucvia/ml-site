@@ -23,36 +23,40 @@ layout: default
 
 # Anuncios <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
-1. **[28/02/2024]** Agregados videos de **Tema 09: Redes Neuronales** en [Clases](https://ml.ucv.ai/clases)
-2. **[26/02/2024]** Agregado notebook de **Tema 09: Redes Neuronales** en [Calendario](#calendario--)
-3. **[28/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Parcial 1](https://github.com/ucvia/ml-pregrado-parcial-01-2024) **publicado** en [Exámenes teóricos](#exámenes-teóricos).
-4. **[15/02/2024]** Agregado contenido de **Tema 08: Aprendizaje No Supervisado** temas **K-medias** y **Agrupamiento Jerárquico** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--)
-5. **[09/02/2024]** Agregado video de **Tema 07: Árboles de Decisión** Parte 2 a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
-6. **[28/01/2024]** Agregado contenido de **Tema 07: Árboles de Decisión** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
-7. **[05/02/2024]** <span style="color:rgb(134, 38, 51)">**[Proyecto]**</span> Los lineamientos del [Proyecto](https://ml.ucv.ai/proyecto/Proyecto_Pregrado_II24.pdf) **publicado** en sección [Proyecto](#proyecto).
-8. **[31/01/2024]** Agregada Clase 2 de **Tema 06: Máquinas de Soporte Vectorial** a [Clases](https://ml.ucv.ai/clases) 
-9. **[28/01/2024]** Agregado contenido de **Tema 06: Máquinas de Soporte Vectorial** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
-10. **[28/01/2024]** Agregado contenido de **Tema 05: Evaluación y selección de modelos (Parte 2)** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
-11. **[28/01/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 2](https://ml.ucv.ai/tareas/Tarea2_II_2024.pdf) **publicada** en [Asignaciones](#asignaciones).
-12. **[18/01/2025]** Agregado contenido de **Tema 05: Evaluación y selección de modelos** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
-13. **[16/01/2025]** Agregado contenido de **Tema 04:  Trade-off bias variance** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
-14. **[17/12/2024]** Agregado contenido de **Tema 03:  Regularización** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
-15. **[26/11/2024]** Agregadas clases de **Tema 02: Regresión Logística partes 1 y 2** a [Clases](https://ml.ucv.ai/clases) 
-16. **[29/11/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Extendida** fecha de entrega de [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf) para el viernes 6 de Diciembre a las 11:59 p.m Caracas (GMT-4).  
-17. **[26/11/2024]** Agregado [Template tarea 1](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb)
-18. **[22/11/2024]** Agregada clase de **Tema 01: Regresión Lineal parte 4: Descenso del gradiente** a [Clases](https://ml.ucv.ai/clases) 
-19. **[22/11/2024]** Agregada clase de **Tema 01: Regresión Lineal parte 3: Scikit-Learn vs Numpy** a [Clases](https://ml.ucv.ai/clases) 
-20. **[15/11/2024]** Agregada clase de **Tema 01: Regresión Lineal parte 2: Formulación** a [Clases](https://ml.ucv.ai/clases) 
-21. **[15/10/2024]** Publicado notebook de Regresión lineal en [Calendario](#calendario--).
-22. **[15/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf) **publicada** en [Asignaciones](#asignaciones--).
-23. 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
-24. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
-25. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
-26. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
-27. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
-28. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
-29. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
-30. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
+1. **[08/03/2025]** Página archivada II-2024. [Gracias!](https://www.youtube.com/watch?v=12R4FzIhdoQ)
+2. **[08/03/2025]** Agregados notebooks de **Tema 09: Redes Neuronales CNN** y **Tema 10: Reducción de Dimensionalidad** en [Calendario](#calendario--)
+3. **[08/03/2025]** <span style="color:rgb(134, 38, 51)">**[Evaluación: Proyecto]**</span> Fecha de presentación y entrega de Proyecto modificada. Info en [Asignaciones](#asignaciones).
+4. **[07/03/2025]** Agregados videos de **Tema 09: Redes Neuronales CNN** y **Tema 10: Reducción de Dimensionalidad** en [Clases](https://ml.ucv.ai/clases)
+5. **[28/02/2025]** Agregados videos de **Tema 09: Redes Neuronales** en [Clases](https://ml.ucv.ai/clases)
+6. **[26/02/2025]** Agregado notebook de **Tema 09: Redes Neuronales** en [Calendario](#calendario--)
+7. **[28/01/2025]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Parcial 1](https://github.com/ucvia/ml-pregrado-parcial-01-2024) **publicado** en [Exámenes teóricos](#exámenes-teóricos).
+8. **[15/02/2025]** Agregado contenido de **Tema 08: Aprendizaje No Supervisado** temas **K-medias** y **Agrupamiento Jerárquico** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--)
+9. **[09/02/2025]** Agregado video de **Tema 07: Árboles de Decisión** Parte 2 a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
+10. **[28/01/2025]** Agregado contenido de **Tema 07: Árboles de Decisión** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
+11. **[05/02/2025]** <span style="color:rgb(134, 38, 51)">**[Proyecto]**</span> Los lineamientos del [Proyecto](https://ml.ucv.ai/proyecto/Proyecto_Pregrado_II24.pdf) **publicado** en sección [Proyecto](#proyecto).
+12. **[31/01/2025]** Agregada Clase 2 de **Tema 06: Máquinas de Soporte Vectorial** a [Clases](https://ml.ucv.ai/clases) 
+13. **[28/01/2025]** Agregado contenido de **Tema 06: Máquinas de Soporte Vectorial** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
+14. **[28/01/2025]** Agregado contenido de **Tema 05: Evaluación y selección de modelos (Parte 2)** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
+15. **[28/01/2025]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 2](https://ml.ucv.ai/tareas/Tarea2_II_2024.pdf) **publicada** en [Asignaciones](#asignaciones).
+16. **[18/01/2025]** Agregado contenido de **Tema 05: Evaluación y selección de modelos** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
+17. **[16/01/2025]** Agregado contenido de **Tema 04:  Trade-off bias variance** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
+18. **[17/12/2024]** Agregado contenido de **Tema 03:  Regularización** a [Clases](https://ml.ucv.ai/clases) y notebook a [Calendario](#calendario--) 
+19. **[26/11/2024]** Agregadas clases de **Tema 02: Regresión Logística partes 1 y 2** a [Clases](https://ml.ucv.ai/clases) 
+20. **[29/11/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> **Extendida** fecha de entrega de [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf) para el viernes 6 de Diciembre a las 11:59 p.m Caracas (GMT-4).  
+21. **[26/11/2024]** Agregado [Template tarea 1](https://ml.ucv.ai/notebooks/00_Template_Tarea.ipynb)
+22. **[22/11/2024]** Agregada clase de **Tema 01: Regresión Lineal parte 4: Descenso del gradiente** a [Clases](https://ml.ucv.ai/clases) 
+23. **[22/11/2024]** Agregada clase de **Tema 01: Regresión Lineal parte 3: Scikit-Learn vs Numpy** a [Clases](https://ml.ucv.ai/clases) 
+24. **[15/11/2024]** Agregada clase de **Tema 01: Regresión Lineal parte 2: Formulación** a [Clases](https://ml.ucv.ai/clases) 
+25. **[15/10/2024]** Publicado notebook de Regresión lineal en [Calendario](#calendario--).
+26. **[15/10/2024]** <span style="color:rgb(134, 38, 51)">**[Evaluación]**</span> [Tarea 1](https://ml.ucv.ai/tareas/Tarea1_II_2024.pdf) **publicada** en [Asignaciones](#asignaciones--).
+27. 1. **[11/11/2024]** Creado grupo de comunicación en [Telegram](https://t.me/+CGlRt_ISA2xiZDFk) 
+28. **[10/11/2024]** Agregada clase de **Regresión Lineal parte 1: Derivación** a [Clases](https://ml.ucv.ai/clases) y [ML Book](https://ml-book.ucv.ai) será actualizado luego de clase 2.
+29. **[07/11/2024]** Solucionado link que abre los Notebooks de [ML Book](https://ml-book.ucv.ai) en [Google colab](https://colab.research.google.com)
+30. **[07/11/2024]** Agregada sección [Zoom](#zoom--) con link y horario de las llamadas. Actualizado Notebook en [ML Book](https://ml-book.ucv.ai) con Clase 2.
+31. **[06/11/2024]** Publicado video de Clase 2: Álgebra lineal (06/11/2024) en sección [Clases](https://ml.ucv.ai/clases)
+32. **[31/10/2024]** Actualizado el [ML Book](https://ml-book.ucv.ai) con clase 1: Introducción a ML y notebook agregado en [Calendario](#calendario--).
+33. **[30/10/2024]** Publicado video de Clase 1 (30/10/2024) en sección [Clases](https://ml.ucv.ai/clases)
+34. **[29/10/2024]** Creada página de la materia para II-2024. Bienvenidos!
 
 # Zoom <a href="#"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -65,6 +69,8 @@ Miércoles| 1:00 pm Caracas| [Zoom link](https://us06web.zoom.us/j/81947334120?p
 
 Fecha | Tema | Material | Nota | Acuerdos 
 :-----:|-------|:--------:|:--------:|:--------:
+07/03/25| 10 Reducción de Dimensionalidad| [Notebook 10: Reducción de Dimensionalidad](https://ml.ucv.ai/notebooks/10_Reduccion_de_Dimensionalidad.ipynb) |  | PCA puede ser evaluado. t-SNE no será evaluado.
+06/03/25| 09 Redes Neuronales Convolucionales| [Notebook 09: Redes Neuronales v2](https://ml.ucv.ai/notebooks/09_Redes_Neuronales_Convolucionales.ipynb) |  | 
 28/02/25| 09 Redes Neuronales| [Notebook 09: Redes Neuronales v2](https://ml.ucv.ai/notebooks/09_Redes_Neuronales-v2.ipynb) | Modificado luego de clase del miércoles 26 | 
 26/02/25| 09 Redes Neuronales| [Notebook 09: Redes Neuronales v1](https://ml.ucv.ai/notebooks/09_Redes_Neuronales.ipynb) |  | 
 15/02/25| 08 Agrupamiento| [Notebook 08: Agrupamiento](https://ml.ucv.ai/notebooks/08_Agrupamiento.ipynb) |  | Entrega notas Lunes 17/02 y Martes 18/02
@@ -97,7 +103,8 @@ Tareas y asignaciones | Exámenes | Proyectos | Total
 
 | | Todos los Grupos | 
 :---------:|:--------:
-**Fecha** | 19/03/25
+**Fecha de envío** | 19/03/25
+**Fecha de presentación** | 21/03/25
 **Asignados** | Por definir
 **Link** | [Proyecto](https://ml.ucv.ai/proyecto/Proyecto_Pregrado_II24.pdf)
 
