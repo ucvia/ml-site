@@ -33,13 +33,13 @@ is_contact: false
     - [Parte 2: PyTorch](#parte-2-pytorch)
       - [Parte A](#parte-a)
     - [Parte 3: PDI y CNN](#parte-3-pdi-y-cnn)
-    - [Parte 4: Segmentación de imágenes con AutoEncoders](#parte-4-segmentación-de-imágenes-con-autoencoders)
-    - [Parte 5: Transfer Learning y Fine Tuning](#parte-5-transfer-learning-y-fine-tuning)
+      - [Parte A](#parte-a-1)
+      - [Parte B](#parte-b)
 - [Aprendizaje No Supervisado  ](#aprendizaje-no-supervisado--)
   - [08 Agrupamiento](#08-agrupamiento)
     - [Parte 1: K-medias](#parte-1-k-medias)
     - [Parte 2: Agrupamiento Jerárquico](#parte-2-agrupamiento-jerárquico)
-    - [Parte 3: PCA](#parte-3-pca)
+    - [Parte 3: Reducción de Dimensionalidad](#parte-3-reducción-de-dimensionalidad)
 
 # Introducción <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -153,15 +153,13 @@ is_contact: false
 
 ### Parte 3: PDI y CNN
 
-TBD
+#### Parte A
 
-### Parte 4: Segmentación de imágenes con AutoEncoders
+[![09 Redes Neuronales: CNN](/static/CNN-part1.png)]( https://youtu.be/W-oIYeCG_0U "09 Redes Neuronales: CNN")
 
-TBD
+#### Parte B
 
-### Parte 5: Transfer Learning y Fine Tuning
-
-TBD
+[![09 Redes Neuronales: CNN](/static/CNN-part2.png)]( https://youtu.be/PiB2x73Bc9E "09 Redes Neuronales: CNN")
 
 # Aprendizaje No Supervisado <a href="/clases"><button class="btn" ><i class="fa fa-home"></i> </button></a>
 
@@ -175,8 +173,9 @@ TBD
 
 [![08 Agrupamiento: jerarquico](/static/video2.jpeg)](https://youtu.be/L-_xgsS7UwQ "08 Agrupamiento: jerarquico")
 
-### Parte 3: PCA
+### Parte 3: Reducción de Dimensionalidad
 
-TBD
+[![10 Reducción de Dimensionalidad](/static/10_PCA-TSNE.png)](https://youtu.be/pcq3-hMRzlM "08 Agrupamiento: jerarquico")
+
 
 > Todas las imágenes generadas con prompts del contenido en Midjourney y Leonardo.ai
